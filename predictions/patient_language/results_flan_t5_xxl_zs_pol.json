@@ -1,0 +1,4736 @@
+{
+    "621": {
+        "Prediction": "Entailment"
+    },
+    "5088": {
+        "Prediction": "Entailment"
+    },
+    "5395": {
+        "Prediction": "Entailment"
+    },
+    "517": {
+        "Prediction": "Contradiction"
+    },
+    "4068": {
+        "Prediction": "Contradiction"
+    },
+    "3892": {
+        "Prediction": "Entailment"
+    },
+    "1019": {
+        "Prediction": "Entailment"
+    },
+    "1958": {
+        "Prediction": "Contradiction"
+    },
+    "4179": {
+        "Prediction": "Entailment"
+    },
+    "6731": {
+        "Prediction": "Contradiction"
+    },
+    "2244": {
+        "Prediction": "Entailment"
+    },
+    "6758": {
+        "Prediction": "Entailment"
+    },
+    "5297": {
+        "Prediction": "Contradiction"
+    },
+    "5077": {
+        "Prediction": "Contradiction"
+    },
+    "4665": {
+        "Prediction": "Contradiction"
+    },
+    "2398": {
+        "Prediction": "Entailment"
+    },
+    "652": {
+        "Prediction": "Entailment"
+    },
+    "5070": {
+        "Prediction": "Contradiction"
+    },
+    "2127": {
+        "Prediction": "Entailment"
+    },
+    "3857": {
+        "Prediction": "Entailment"
+    },
+    "218": {
+        "Prediction": "Contradiction"
+    },
+    "5976": {
+        "Prediction": "Contradiction"
+    },
+    "355": {
+        "Prediction": "Contradiction"
+    },
+    "3775": {
+        "Prediction": "Entailment"
+    },
+    "3021": {
+        "Prediction": "Contradiction"
+    },
+    "538": {
+        "Prediction": "Contradiction"
+    },
+    "1835": {
+        "Prediction": "Contradiction"
+    },
+    "2424": {
+        "Prediction": "Entailment"
+    },
+    "1625": {
+        "Prediction": "Contradiction"
+    },
+    "3591": {
+        "Prediction": "Entailment"
+    },
+    "2608": {
+        "Prediction": "Entailment"
+    },
+    "5970": {
+        "Prediction": "Contradiction"
+    },
+    "2019": {
+        "Prediction": "Entailment"
+    },
+    "563": {
+        "Prediction": "Contradiction"
+    },
+    "1389": {
+        "Prediction": "Entailment"
+    },
+    "3620": {
+        "Prediction": "Contradiction"
+    },
+    "1734": {
+        "Prediction": "Entailment"
+    },
+    "2158": {
+        "Prediction": "Entailment"
+    },
+    "1628": {
+        "Prediction": "Entailment"
+    },
+    "236": {
+        "Prediction": "Contradiction"
+    },
+    "3377": {
+        "Prediction": "Contradiction"
+    },
+    "3723": {
+        "Prediction": "Entailment"
+    },
+    "431": {
+        "Prediction": "Contradiction"
+    },
+    "5410": {
+        "Prediction": "Entailment"
+    },
+    "5340": {
+        "Prediction": "Contradiction"
+    },
+    "5790": {
+        "Prediction": "Contradiction"
+    },
+    "4180": {
+        "Prediction": "Contradiction"
+    },
+    "4825": {
+        "Prediction": "Entailment"
+    },
+    "6307": {
+        "Prediction": "Contradiction"
+    },
+    "165": {
+        "Prediction": "Contradiction"
+    },
+    "4405": {
+        "Prediction": "Entailment"
+    },
+    "613": {
+        "Prediction": "Contradiction"
+    },
+    "378": {
+        "Prediction": "Contradiction"
+    },
+    "6781": {
+        "Prediction": "Entailment"
+    },
+    "1981": {
+        "Prediction": "Entailment"
+    },
+    "5564": {
+        "Prediction": "Contradiction"
+    },
+    "4659": {
+        "Prediction": "Entailment"
+    },
+    "1043": {
+        "Prediction": "Entailment"
+    },
+    "2882": {
+        "Prediction": "Entailment"
+    },
+    "6958": {
+        "Prediction": "Entailment"
+    },
+    "4398": {
+        "Prediction": "Entailment"
+    },
+    "1973": {
+        "Prediction": "Contradiction"
+    },
+    "3655": {
+        "Prediction": "Contradiction"
+    },
+    "2719": {
+        "Prediction": "Entailment"
+    },
+    "1639": {
+        "Prediction": "Contradiction"
+    },
+    "5267": {
+        "Prediction": "Contradiction"
+    },
+    "5902": {
+        "Prediction": "Contradiction"
+    },
+    "1800": {
+        "Prediction": "Contradiction"
+    },
+    "5011": {
+        "Prediction": "Entailment"
+    },
+    "3654": {
+        "Prediction": "Contradiction"
+    },
+    "3340": {
+        "Prediction": "Contradiction"
+    },
+    "2961": {
+        "Prediction": "Contradiction"
+    },
+    "3943": {
+        "Prediction": "Entailment"
+    },
+    "1264": {
+        "Prediction": "Entailment"
+    },
+    "1999": {
+        "Prediction": "Contradiction"
+    },
+    "4032": {
+        "Prediction": "Entailment"
+    },
+    "6578": {
+        "Prediction": "Contradiction"
+    },
+    "3974": {
+        "Prediction": "Entailment"
+    },
+    "3161": {
+        "Prediction": "Contradiction"
+    },
+    "5327": {
+        "Prediction": "Contradiction"
+    },
+    "2290": {
+        "Prediction": "Entailment"
+    },
+    "5900": {
+        "Prediction": "Contradiction"
+    },
+    "6001": {
+        "Prediction": "Contradiction"
+    },
+    "1172": {
+        "Prediction": "Entailment"
+    },
+    "3602": {
+        "Prediction": "Entailment"
+    },
+    "5882": {
+        "Prediction": "Contradiction"
+    },
+    "6832": {
+        "Prediction": "Entailment"
+    },
+    "209": {
+        "Prediction": "Contradiction"
+    },
+    "379": {
+        "Prediction": "Contradiction"
+    },
+    "4530": {
+        "Prediction": "Contradiction"
+    },
+    "3164": {
+        "Prediction": "Contradiction"
+    },
+    "5266": {
+        "Prediction": "Entailment"
+    },
+    "5478": {
+        "Prediction": "Entailment"
+    },
+    "1012": {
+        "Prediction": "Entailment"
+    },
+    "3715": {
+        "Prediction": "Entailment"
+    },
+    "5091": {
+        "Prediction": "Entailment"
+    },
+    "1256": {
+        "Prediction": "Entailment"
+    },
+    "2703": {
+        "Prediction": "Entailment"
+    },
+    "2892": {
+        "Prediction": "Contradiction"
+    },
+    "2109": {
+        "Prediction": "Entailment"
+    },
+    "6370": {
+        "Prediction": "Contradiction"
+    },
+    "1594": {
+        "Prediction": "Contradiction"
+    },
+    "6205": {
+        "Prediction": "Contradiction"
+    },
+    "1852": {
+        "Prediction": "Entailment"
+    },
+    "692": {
+        "Prediction": "Entailment"
+    },
+    "3193": {
+        "Prediction": "Entailment"
+    },
+    "1188": {
+        "Prediction": "Entailment"
+    },
+    "3516": {
+        "Prediction": "Contradiction"
+    },
+    "1420": {
+        "Prediction": "Contradiction"
+    },
+    "6400": {
+        "Prediction": "Entailment"
+    },
+    "2136": {
+        "Prediction": "Contradiction"
+    },
+    "2455": {
+        "Prediction": "Entailment"
+    },
+    "401": {
+        "Prediction": "Contradiction"
+    },
+    "532": {
+        "Prediction": "Contradiction"
+    },
+    "1638": {
+        "Prediction": "Entailment"
+    },
+    "656": {
+        "Prediction": "Entailment"
+    },
+    "2082": {
+        "Prediction": "Entailment"
+    },
+    "5334": {
+        "Prediction": "Contradiction"
+    },
+    "3108": {
+        "Prediction": "Contradiction"
+    },
+    "6510": {
+        "Prediction": "Entailment"
+    },
+    "738": {
+        "Prediction": "Contradiction"
+    },
+    "4370": {
+        "Prediction": "Contradiction"
+    },
+    "583": {
+        "Prediction": "Contradiction"
+    },
+    "790": {
+        "Prediction": "Entailment"
+    },
+    "1121": {
+        "Prediction": "Entailment"
+    },
+    "262": {
+        "Prediction": "Contradiction"
+    },
+    "1624": {
+        "Prediction": "Contradiction"
+    },
+    "5277": {
+        "Prediction": "Entailment"
+    },
+    "5176": {
+        "Prediction": "Entailment"
+    },
+    "666": {
+        "Prediction": "Entailment"
+    },
+    "5236": {
+        "Prediction": "Entailment"
+    },
+    "2979": {
+        "Prediction": "Contradiction"
+    },
+    "5760": {
+        "Prediction": "Contradiction"
+    },
+    "5389": {
+        "Prediction": "Contradiction"
+    },
+    "323": {
+        "Prediction": "Contradiction"
+    },
+    "1068": {
+        "Prediction": "Contradiction"
+    },
+    "3103": {
+        "Prediction": "Entailment"
+    },
+    "3876": {
+        "Prediction": "Entailment"
+    },
+    "3220": {
+        "Prediction": "Entailment"
+    },
+    "6236": {
+        "Prediction": "Entailment"
+    },
+    "5648": {
+        "Prediction": "Contradiction"
+    },
+    "57": {
+        "Prediction": "Contradiction"
+    },
+    "6037": {
+        "Prediction": "Contradiction"
+    },
+    "6478": {
+        "Prediction": "Entailment"
+    },
+    "2475": {
+        "Prediction": "Contradiction"
+    },
+    "2628": {
+        "Prediction": "Contradiction"
+    },
+    "4583": {
+        "Prediction": "Entailment"
+    },
+    "4155": {
+        "Prediction": "Contradiction"
+    },
+    "2670": {
+        "Prediction": "Entailment"
+    },
+    "2619": {
+        "Prediction": "Contradiction"
+    },
+    "2521": {
+        "Prediction": "Contradiction"
+    },
+    "5560": {
+        "Prediction": "Contradiction"
+    },
+    "4863": {
+        "Prediction": "Entailment"
+    },
+    "2849": {
+        "Prediction": "Contradiction"
+    },
+    "64": {
+        "Prediction": "Contradiction"
+    },
+    "5100": {
+        "Prediction": "Contradiction"
+    },
+    "2524": {
+        "Prediction": "Contradiction"
+    },
+    "4453": {
+        "Prediction": "Contradiction"
+    },
+    "1181": {
+        "Prediction": "Contradiction"
+    },
+    "5379": {
+        "Prediction": "Contradiction"
+    },
+    "284": {
+        "Prediction": "Contradiction"
+    },
+    "4392": {
+        "Prediction": "Contradiction"
+    },
+    "4364": {
+        "Prediction": "Contradiction"
+    },
+    "4393": {
+        "Prediction": "Contradiction"
+    },
+    "4099": {
+        "Prediction": "Entailment"
+    },
+    "6201": {
+        "Prediction": "Entailment"
+    },
+    "1801": {
+        "Prediction": "Contradiction"
+    },
+    "1113": {
+        "Prediction": "Contradiction"
+    },
+    "901": {
+        "Prediction": "Contradiction"
+    },
+    "3053": {
+        "Prediction": "Contradiction"
+    },
+    "5468": {
+        "Prediction": "Contradiction"
+    },
+    "2625": {
+        "Prediction": "Contradiction"
+    },
+    "510": {
+        "Prediction": "Contradiction"
+    },
+    "68": {
+        "Prediction": "Entailment"
+    },
+    "1491": {
+        "Prediction": "Entailment"
+    },
+    "4872": {
+        "Prediction": "Entailment"
+    },
+    "5402": {
+        "Prediction": "Contradiction"
+    },
+    "1165": {
+        "Prediction": "Contradiction"
+    },
+    "3628": {
+        "Prediction": "Entailment"
+    },
+    "6639": {
+        "Prediction": "Entailment"
+    },
+    "1287": {
+        "Prediction": "Contradiction"
+    },
+    "160": {
+        "Prediction": "Entailment"
+    },
+    "6243": {
+        "Prediction": "Entailment"
+    },
+    "3860": {
+        "Prediction": "Entailment"
+    },
+    "1436": {
+        "Prediction": "Contradiction"
+    },
+    "3831": {
+        "Prediction": "Entailment"
+    },
+    "3716": {
+        "Prediction": "Contradiction"
+    },
+    "6586": {
+        "Prediction": "Contradiction"
+    },
+    "3236": {
+        "Prediction": "Entailment"
+    },
+    "3024": {
+        "Prediction": "Entailment"
+    },
+    "4165": {
+        "Prediction": "Contradiction"
+    },
+    "6152": {
+        "Prediction": "Entailment"
+    },
+    "6430": {
+        "Prediction": "Entailment"
+    },
+    "1024": {
+        "Prediction": "Entailment"
+    },
+    "5074": {
+        "Prediction": "Entailment"
+    },
+    "6889": {
+        "Prediction": "Entailment"
+    },
+    "140": {
+        "Prediction": "Contradiction"
+    },
+    "3203": {
+        "Prediction": "Entailment"
+    },
+    "4070": {
+        "Prediction": "Contradiction"
+    },
+    "4981": {
+        "Prediction": "Entailment"
+    },
+    "3141": {
+        "Prediction": "Contradiction"
+    },
+    "1867": {
+        "Prediction": "Contradiction"
+    },
+    "5565": {
+        "Prediction": "Contradiction"
+    },
+    "386": {
+        "Prediction": "Contradiction"
+    },
+    "2286": {
+        "Prediction": "Contradiction"
+    },
+    "2003": {
+        "Prediction": "Entailment"
+    },
+    "6053": {
+        "Prediction": "Contradiction"
+    },
+    "6345": {
+        "Prediction": "Entailment"
+    },
+    "6488": {
+        "Prediction": "Entailment"
+    },
+    "6627": {
+        "Prediction": "Entailment"
+    },
+    "4808": {
+        "Prediction": "Contradiction"
+    },
+    "4624": {
+        "Prediction": "Contradiction"
+    },
+    "3077": {
+        "Prediction": "Contradiction"
+    },
+    "3991": {
+        "Prediction": "Entailment"
+    },
+    "5785": {
+        "Prediction": "Contradiction"
+    },
+    "1472": {
+        "Prediction": "Contradiction"
+    },
+    "509": {
+        "Prediction": "Contradiction"
+    },
+    "2730": {
+        "Prediction": "Entailment"
+    },
+    "1450": {
+        "Prediction": "Contradiction"
+    },
+    "1400": {
+        "Prediction": "Contradiction"
+    },
+    "6553": {
+        "Prediction": "Entailment"
+    },
+    "38": {
+        "Prediction": "Contradiction"
+    },
+    "6663": {
+        "Prediction": "Entailment"
+    },
+    "486": {
+        "Prediction": "Contradiction"
+    },
+    "3504": {
+        "Prediction": "Contradiction"
+    },
+    "1405": {
+        "Prediction": "Contradiction"
+    },
+    "3941": {
+        "Prediction": "Entailment"
+    },
+    "3253": {
+        "Prediction": "Entailment"
+    },
+    "5546": {
+        "Prediction": "Entailment"
+    },
+    "1618": {
+        "Prediction": "Entailment"
+    },
+    "784": {
+        "Prediction": "Entailment"
+    },
+    "734": {
+        "Prediction": "Entailment"
+    },
+    "3326": {
+        "Prediction": "Contradiction"
+    },
+    "3673": {
+        "Prediction": "Contradiction"
+    },
+    "5814": {
+        "Prediction": "Contradiction"
+    },
+    "4706": {
+        "Prediction": "Entailment"
+    },
+    "2021": {
+        "Prediction": "Contradiction"
+    },
+    "1415": {
+        "Prediction": "Contradiction"
+    },
+    "6437": {
+        "Prediction": "Entailment"
+    },
+    "3622": {
+        "Prediction": "Entailment"
+    },
+    "962": {
+        "Prediction": "Contradiction"
+    },
+    "5714": {
+        "Prediction": "Contradiction"
+    },
+    "5252": {
+        "Prediction": "Entailment"
+    },
+    "2224": {
+        "Prediction": "Entailment"
+    },
+    "572": {
+        "Prediction": "Entailment"
+    },
+    "4451": {
+        "Prediction": "Entailment"
+    },
+    "1308": {
+        "Prediction": "Entailment"
+    },
+    "3621": {
+        "Prediction": "Entailment"
+    },
+    "5005": {
+        "Prediction": "Entailment"
+    },
+    "6598": {
+        "Prediction": "Contradiction"
+    },
+    "6750": {
+        "Prediction": "Entailment"
+    },
+    "4957": {
+        "Prediction": "Entailment"
+    },
+    "6794": {
+        "Prediction": "Contradiction"
+    },
+    "4658": {
+        "Prediction": "Entailment"
+    },
+    "3567": {
+        "Prediction": "Entailment"
+    },
+    "1694": {
+        "Prediction": "Entailment"
+    },
+    "2124": {
+        "Prediction": "Contradiction"
+    },
+    "4571": {
+        "Prediction": "Contradiction"
+    },
+    "4046": {
+        "Prediction": "Entailment"
+    },
+    "258": {
+        "Prediction": "Contradiction"
+    },
+    "5720": {
+        "Prediction": "Contradiction"
+    },
+    "1050": {
+        "Prediction": "Contradiction"
+    },
+    "1443": {
+        "Prediction": "Contradiction"
+    },
+    "5035": {
+        "Prediction": "Entailment"
+    },
+    "5594": {
+        "Prediction": "Contradiction"
+    },
+    "2571": {
+        "Prediction": "Contradiction"
+    },
+    "1125": {
+        "Prediction": "Contradiction"
+    },
+    "5130": {
+        "Prediction": "Entailment"
+    },
+    "288": {
+        "Prediction": "Contradiction"
+    },
+    "4286": {
+        "Prediction": "Contradiction"
+    },
+    "3257": {
+        "Prediction": "Entailment"
+    },
+    "5659": {
+        "Prediction": "Contradiction"
+    },
+    "4325": {
+        "Prediction": "Entailment"
+    },
+    "247": {
+        "Prediction": "Contradiction"
+    },
+    "4880": {
+        "Prediction": "Entailment"
+    },
+    "2336": {
+        "Prediction": "Contradiction"
+    },
+    "3449": {
+        "Prediction": "Contradiction"
+    },
+    "6061": {
+        "Prediction": "Contradiction"
+    },
+    "5178": {
+        "Prediction": "Entailment"
+    },
+    "2320": {
+        "Prediction": "Contradiction"
+    },
+    "1784": {
+        "Prediction": "Contradiction"
+    },
+    "5899": {
+        "Prediction": "Contradiction"
+    },
+    "1642": {
+        "Prediction": "Contradiction"
+    },
+    "6431": {
+        "Prediction": "Entailment"
+    },
+    "182": {
+        "Prediction": "Contradiction"
+    },
+    "1733": {
+        "Prediction": "Entailment"
+    },
+    "3679": {
+        "Prediction": "Contradiction"
+    },
+    "2804": {
+        "Prediction": "Contradiction"
+    },
+    "1525": {
+        "Prediction": "Contradiction"
+    },
+    "5227": {
+        "Prediction": "Entailment"
+    },
+    "6223": {
+        "Prediction": "Entailment"
+    },
+    "2969": {
+        "Prediction": "Contradiction"
+    },
+    "2069": {
+        "Prediction": "Entailment"
+    },
+    "6376": {
+        "Prediction": "Entailment"
+    },
+    "6828": {
+        "Prediction": "Entailment"
+    },
+    "6017": {
+        "Prediction": "Contradiction"
+    },
+    "3037": {
+        "Prediction": "Contradiction"
+    },
+    "482": {
+        "Prediction": "Contradiction"
+    },
+    "2502": {
+        "Prediction": "Entailment"
+    },
+    "2419": {
+        "Prediction": "Entailment"
+    },
+    "5993": {
+        "Prediction": "Contradiction"
+    },
+    "4466": {
+        "Prediction": "Entailment"
+    },
+    "4094": {
+        "Prediction": "Contradiction"
+    },
+    "1425": {
+        "Prediction": "Contradiction"
+    },
+    "2275": {
+        "Prediction": "Entailment"
+    },
+    "2498": {
+        "Prediction": "Entailment"
+    },
+    "2818": {
+        "Prediction": "Contradiction"
+    },
+    "4655": {
+        "Prediction": "Contradiction"
+    },
+    "1478": {
+        "Prediction": "Contradiction"
+    },
+    "785": {
+        "Prediction": "Entailment"
+    },
+    "1895": {
+        "Prediction": "Entailment"
+    },
+    "248": {
+        "Prediction": "Contradiction"
+    },
+    "240": {
+        "Prediction": "Contradiction"
+    },
+    "2588": {
+        "Prediction": "Contradiction"
+    },
+    "6760": {
+        "Prediction": "Entailment"
+    },
+    "2598": {
+        "Prediction": "Contradiction"
+    },
+    "5359": {
+        "Prediction": "Contradiction"
+    },
+    "1290": {
+        "Prediction": "Contradiction"
+    },
+    "4850": {
+        "Prediction": "Entailment"
+    },
+    "6923": {
+        "Prediction": "Entailment"
+    },
+    "1648": {
+        "Prediction": "Contradiction"
+    },
+    "5981": {
+        "Prediction": "Contradiction"
+    },
+    "2308": {
+        "Prediction": "Entailment"
+    },
+    "2337": {
+        "Prediction": "Entailment"
+    },
+    "2223": {
+        "Prediction": "Entailment"
+    },
+    "1240": {
+        "Prediction": "Entailment"
+    },
+    "6181": {
+        "Prediction": "Entailment"
+    },
+    "1878": {
+        "Prediction": "Contradiction"
+    },
+    "3122": {
+        "Prediction": "Contradiction"
+    },
+    "2147": {
+        "Prediction": "Entailment"
+    },
+    "2383": {
+        "Prediction": "Contradiction"
+    },
+    "2771": {
+        "Prediction": "Contradiction"
+    },
+    "6356": {
+        "Prediction": "Entailment"
+    },
+    "594": {
+        "Prediction": "Entailment"
+    },
+    "4845": {
+        "Prediction": "Entailment"
+    },
+    "4004": {
+        "Prediction": "Entailment"
+    },
+    "1398": {
+        "Prediction": "Entailment"
+    },
+    "1216": {
+        "Prediction": "Entailment"
+    },
+    "5238": {
+        "Prediction": "Entailment"
+    },
+    "5874": {
+        "Prediction": "Contradiction"
+    },
+    "4191": {
+        "Prediction": "Entailment"
+    },
+    "5448": {
+        "Prediction": "Entailment"
+    },
+    "600": {
+        "Prediction": "Entailment"
+    },
+    "6273": {
+        "Prediction": "Entailment"
+    },
+    "3102": {
+        "Prediction": "Contradiction"
+    },
+    "4446": {
+        "Prediction": "Entailment"
+    },
+    "6113": {
+        "Prediction": "Contradiction"
+    },
+    "3771": {
+        "Prediction": "Entailment"
+    },
+    "1204": {
+        "Prediction": "Contradiction"
+    },
+    "6768": {
+        "Prediction": "Contradiction"
+    },
+    "5737": {
+        "Prediction": "Contradiction"
+    },
+    "601": {
+        "Prediction": "Entailment"
+    },
+    "3067": {
+        "Prediction": "Entailment"
+    },
+    "2437": {
+        "Prediction": "Entailment"
+    },
+    "3407": {
+        "Prediction": "Contradiction"
+    },
+    "6497": {
+        "Prediction": "Contradiction"
+    },
+    "2690": {
+        "Prediction": "Entailment"
+    },
+    "6473": {
+        "Prediction": "Contradiction"
+    },
+    "3537": {
+        "Prediction": "Entailment"
+    },
+    "1530": {
+        "Prediction": "Contradiction"
+    },
+    "1303": {
+        "Prediction": "Entailment"
+    },
+    "2920": {
+        "Prediction": "Contradiction"
+    },
+    "6945": {
+        "Prediction": "Entailment"
+    },
+    "6779": {
+        "Prediction": "Entailment"
+    },
+    "5854": {
+        "Prediction": "Contradiction"
+    },
+    "6555": {
+        "Prediction": "Entailment"
+    },
+    "607": {
+        "Prediction": "Entailment"
+    },
+    "6680": {
+        "Prediction": "Entailment"
+    },
+    "491": {
+        "Prediction": "Contradiction"
+    },
+    "6899": {
+        "Prediction": "Entailment"
+    },
+    "6509": {
+        "Prediction": "Contradiction"
+    },
+    "2262": {
+        "Prediction": "Contradiction"
+    },
+    "5537": {
+        "Prediction": "Entailment"
+    },
+    "3830": {
+        "Prediction": "Entailment"
+    },
+    "4031": {
+        "Prediction": "Entailment"
+    },
+    "1210": {
+        "Prediction": "Entailment"
+    },
+    "6063": {
+        "Prediction": "Contradiction"
+    },
+    "3239": {
+        "Prediction": "Entailment"
+    },
+    "6297": {
+        "Prediction": "Entailment"
+    },
+    "6620": {
+        "Prediction": "Entailment"
+    },
+    "120": {
+        "Prediction": "Contradiction"
+    },
+    "3251": {
+        "Prediction": "Contradiction"
+    },
+    "1320": {
+        "Prediction": "Contradiction"
+    },
+    "3994": {
+        "Prediction": "Entailment"
+    },
+    "614": {
+        "Prediction": "Entailment"
+    },
+    "3646": {
+        "Prediction": "Entailment"
+    },
+    "7004": {
+        "Prediction": "Entailment"
+    },
+    "2643": {
+        "Prediction": "Entailment"
+    },
+    "6127": {
+        "Prediction": "Entailment"
+    },
+    "3011": {
+        "Prediction": "Contradiction"
+    },
+    "5403": {
+        "Prediction": "Entailment"
+    },
+    "4698": {
+        "Prediction": "Entailment"
+    },
+    "4469": {
+        "Prediction": "Entailment"
+    },
+    "2142": {
+        "Prediction": "Entailment"
+    },
+    "801": {
+        "Prediction": "Entailment"
+    },
+    "2354": {
+        "Prediction": "Contradiction"
+    },
+    "2441": {
+        "Prediction": "Entailment"
+    },
+    "4440": {
+        "Prediction": "Entailment"
+    },
+    "6471": {
+        "Prediction": "Entailment"
+    },
+    "128": {
+        "Prediction": "Contradiction"
+    },
+    "4610": {
+        "Prediction": "Entailment"
+    },
+    "3312": {
+        "Prediction": "Entailment"
+    },
+    "1806": {
+        "Prediction": "Contradiction"
+    },
+    "6393": {
+        "Prediction": "Contradiction"
+    },
+    "7003": {
+        "Prediction": "Entailment"
+    },
+    "4858": {
+        "Prediction": "Entailment"
+    },
+    "5073": {
+        "Prediction": "Entailment"
+    },
+    "1285": {
+        "Prediction": "Entailment"
+    },
+    "2264": {
+        "Prediction": "Contradiction"
+    },
+    "4587": {
+        "Prediction": "Contradiction"
+    },
+    "5903": {
+        "Prediction": "Contradiction"
+    },
+    "539": {
+        "Prediction": "Entailment"
+    },
+    "1762": {
+        "Prediction": "Contradiction"
+    },
+    "1170": {
+        "Prediction": "Contradiction"
+    },
+    "3109": {
+        "Prediction": "Contradiction"
+    },
+    "5425": {
+        "Prediction": "Entailment"
+    },
+    "2196": {
+        "Prediction": "Entailment"
+    },
+    "3793": {
+        "Prediction": "Entailment"
+    },
+    "4125": {
+        "Prediction": "Contradiction"
+    },
+    "3183": {
+        "Prediction": "Entailment"
+    },
+    "1151": {
+        "Prediction": "Entailment"
+    },
+    "1260": {
+        "Prediction": "Contradiction"
+    },
+    "212": {
+        "Prediction": "Contradiction"
+    },
+    "1047": {
+        "Prediction": "Contradiction"
+    },
+    "5261": {
+        "Prediction": "Entailment"
+    },
+    "2052": {
+        "Prediction": "Entailment"
+    },
+    "3463": {
+        "Prediction": "Contradiction"
+    },
+    "2139": {
+        "Prediction": "Entailment"
+    },
+    "3233": {
+        "Prediction": "Entailment"
+    },
+    "3766": {
+        "Prediction": "Entailment"
+    },
+    "2042": {
+        "Prediction": "Contradiction"
+    },
+    "4805": {
+        "Prediction": "Contradiction"
+    },
+    "4395": {
+        "Prediction": "Entailment"
+    },
+    "5024": {
+        "Prediction": "Entailment"
+    },
+    "3254": {
+        "Prediction": "Entailment"
+    },
+    "6799": {
+        "Prediction": "Entailment"
+    },
+    "2178": {
+        "Prediction": "Contradiction"
+    },
+    "4188": {
+        "Prediction": "Contradiction"
+    },
+    "5286": {
+        "Prediction": "Entailment"
+    },
+    "2950": {
+        "Prediction": "Entailment"
+    },
+    "6934": {
+        "Prediction": "Entailment"
+    },
+    "1": {
+        "Prediction": "Contradiction"
+    },
+    "2587": {
+        "Prediction": "Entailment"
+    },
+    "1904": {
+        "Prediction": "Entailment"
+    },
+    "6283": {
+        "Prediction": "Contradiction"
+    },
+    "6145": {
+        "Prediction": "Contradiction"
+    },
+    "2897": {
+        "Prediction": "Entailment"
+    },
+    "2311": {
+        "Prediction": "Contradiction"
+    },
+    "4983": {
+        "Prediction": "Entailment"
+    },
+    "4646": {
+        "Prediction": "Entailment"
+    },
+    "4934": {
+        "Prediction": "Entailment"
+    },
+    "6395": {
+        "Prediction": "Contradiction"
+    },
+    "6818": {
+        "Prediction": "Entailment"
+    },
+    "2291": {
+        "Prediction": "Contradiction"
+    },
+    "2921": {
+        "Prediction": "Contradiction"
+    },
+    "4108": {
+        "Prediction": "Entailment"
+    },
+    "966": {
+        "Prediction": "Entailment"
+    },
+    "3525": {
+        "Prediction": "Entailment"
+    },
+    "1715": {
+        "Prediction": "Contradiction"
+    },
+    "4390": {
+        "Prediction": "Contradiction"
+    },
+    "5652": {
+        "Prediction": "Contradiction"
+    },
+    "3485": {
+        "Prediction": "Contradiction"
+    },
+    "3800": {
+        "Prediction": "Entailment"
+    },
+    "1855": {
+        "Prediction": "Contradiction"
+    },
+    "2538": {
+        "Prediction": "Contradiction"
+    },
+    "155": {
+        "Prediction": "Entailment"
+    },
+    "909": {
+        "Prediction": "Entailment"
+    },
+    "1674": {
+        "Prediction": "Contradiction"
+    },
+    "1186": {
+        "Prediction": "Entailment"
+    },
+    "1677": {
+        "Prediction": "Entailment"
+    },
+    "6381": {
+        "Prediction": "Entailment"
+    },
+    "2686": {
+        "Prediction": "Entailment"
+    },
+    "1208": {
+        "Prediction": "Contradiction"
+    },
+    "6489": {
+        "Prediction": "Entailment"
+    },
+    "1830": {
+        "Prediction": "Contradiction"
+    },
+    "5117": {
+        "Prediction": "Entailment"
+    },
+    "2012": {
+        "Prediction": "Contradiction"
+    },
+    "4839": {
+        "Prediction": "Entailment"
+    },
+    "922": {
+        "Prediction": "Entailment"
+    },
+    "3849": {
+        "Prediction": "Entailment"
+    },
+    "5523": {
+        "Prediction": "Entailment"
+    },
+    "2446": {
+        "Prediction": "Contradiction"
+    },
+    "642": {
+        "Prediction": "Entailment"
+    },
+    "5550": {
+        "Prediction": "Contradiction"
+    },
+    "4772": {
+        "Prediction": "Entailment"
+    },
+    "6650": {
+        "Prediction": "Entailment"
+    },
+    "4966": {
+        "Prediction": "Entailment"
+    },
+    "521": {
+        "Prediction": "Contradiction"
+    },
+    "1820": {
+        "Prediction": "Contradiction"
+    },
+    "6551": {
+        "Prediction": "Entailment"
+    },
+    "3731": {
+        "Prediction": "Contradiction"
+    },
+    "6878": {
+        "Prediction": "Entailment"
+    },
+    "6561": {
+        "Prediction": "Contradiction"
+    },
+    "4828": {
+        "Prediction": "Entailment"
+    },
+    "575": {
+        "Prediction": "Contradiction"
+    },
+    "1251": {
+        "Prediction": "Entailment"
+    },
+    "2752": {
+        "Prediction": "Entailment"
+    },
+    "5164": {
+        "Prediction": "Contradiction"
+    },
+    "6362": {
+        "Prediction": "Entailment"
+    },
+    "2016": {
+        "Prediction": "Contradiction"
+    },
+    "6130": {
+        "Prediction": "Entailment"
+    },
+    "1507": {
+        "Prediction": "Entailment"
+    },
+    "4607": {
+        "Prediction": "Contradiction"
+    },
+    "6845": {
+        "Prediction": "Entailment"
+    },
+    "4119": {
+        "Prediction": "Entailment"
+    },
+    "1659": {
+        "Prediction": "Contradiction"
+    },
+    "778": {
+        "Prediction": "Entailment"
+    },
+    "34": {
+        "Prediction": "Contradiction"
+    },
+    "755": {
+        "Prediction": "Entailment"
+    },
+    "4876": {
+        "Prediction": "Entailment"
+    },
+    "3995": {
+        "Prediction": "Entailment"
+    },
+    "2460": {
+        "Prediction": "Entailment"
+    },
+    "4016": {
+        "Prediction": "Entailment"
+    },
+    "4846": {
+        "Prediction": "Entailment"
+    },
+    "6882": {
+        "Prediction": "Entailment"
+    },
+    "1056": {
+        "Prediction": "Contradiction"
+    },
+    "5952": {
+        "Prediction": "Contradiction"
+    },
+    "5469": {
+        "Prediction": "Entailment"
+    },
+    "4090": {
+        "Prediction": "Entailment"
+    },
+    "2387": {
+        "Prediction": "Contradiction"
+    },
+    "4867": {
+        "Prediction": "Entailment"
+    },
+    "492": {
+        "Prediction": "Entailment"
+    },
+    "393": {
+        "Prediction": "Entailment"
+    },
+    "3025": {
+        "Prediction": "Contradiction"
+    },
+    "1591": {
+        "Prediction": "Entailment"
+    },
+    "4975": {
+        "Prediction": "Entailment"
+    },
+    "771": {
+        "Prediction": "Contradiction"
+    },
+    "3426": {
+        "Prediction": "Entailment"
+    },
+    "2083": {
+        "Prediction": "Entailment"
+    },
+    "3808": {
+        "Prediction": "Entailment"
+    },
+    "6436": {
+        "Prediction": "Contradiction"
+    },
+    "2210": {
+        "Prediction": "Entailment"
+    },
+    "1872": {
+        "Prediction": "Contradiction"
+    },
+    "1913": {
+        "Prediction": "Entailment"
+    },
+    "5818": {
+        "Prediction": "Contradiction"
+    },
+    "5426": {
+        "Prediction": "Contradiction"
+    },
+    "2761": {
+        "Prediction": "Entailment"
+    },
+    "1816": {
+        "Prediction": "Contradiction"
+    },
+    "2249": {
+        "Prediction": "Entailment"
+    },
+    "586": {
+        "Prediction": "Contradiction"
+    },
+    "6998": {
+        "Prediction": "Contradiction"
+    },
+    "5552": {
+        "Prediction": "Contradiction"
+    },
+    "5126": {
+        "Prediction": "Contradiction"
+    },
+    "4281": {
+        "Prediction": "Contradiction"
+    },
+    "6369": {
+        "Prediction": "Entailment"
+    },
+    "497": {
+        "Prediction": "Contradiction"
+    },
+    "3242": {
+        "Prediction": "Entailment"
+    },
+    "2764": {
+        "Prediction": "Entailment"
+    },
+    "3761": {
+        "Prediction": "Contradiction"
+    },
+    "191": {
+        "Prediction": "Contradiction"
+    },
+    "4861": {
+        "Prediction": "Entailment"
+    },
+    "3813": {
+        "Prediction": "Entailment"
+    },
+    "1085": {
+        "Prediction": "Contradiction"
+    },
+    "1371": {
+        "Prediction": "Contradiction"
+    },
+    "1566": {
+        "Prediction": "Contradiction"
+    },
+    "3729": {
+        "Prediction": "Contradiction"
+    },
+    "6122": {
+        "Prediction": "Contradiction"
+    },
+    "997": {
+        "Prediction": "Entailment"
+    },
+    "2064": {
+        "Prediction": "Entailment"
+    },
+    "6976": {
+        "Prediction": "Entailment"
+    },
+    "6258": {
+        "Prediction": "Contradiction"
+    },
+    "158": {
+        "Prediction": "Contradiction"
+    },
+    "4369": {
+        "Prediction": "Entailment"
+    },
+    "3278": {
+        "Prediction": "Entailment"
+    },
+    "2509": {
+        "Prediction": "Contradiction"
+    },
+    "6296": {
+        "Prediction": "Entailment"
+    },
+    "1456": {
+        "Prediction": "Entailment"
+    },
+    "2840": {
+        "Prediction": "Entailment"
+    },
+    "2973": {
+        "Prediction": "Contradiction"
+    },
+    "6466": {
+        "Prediction": "Entailment"
+    },
+    "1199": {
+        "Prediction": "Entailment"
+    },
+    "2373": {
+        "Prediction": "Entailment"
+    },
+    "3529": {
+        "Prediction": "Contradiction"
+    },
+    "4086": {
+        "Prediction": "Entailment"
+    },
+    "3247": {
+        "Prediction": "Entailment"
+    },
+    "2321": {
+        "Prediction": "Contradiction"
+    },
+    "5095": {
+        "Prediction": "Entailment"
+    },
+    "4181": {
+        "Prediction": "Entailment"
+    },
+    "2580": {
+        "Prediction": "Contradiction"
+    },
+    "923": {
+        "Prediction": "Contradiction"
+    },
+    "3899": {
+        "Prediction": "Entailment"
+    },
+    "2450": {
+        "Prediction": "Entailment"
+    },
+    "6219": {
+        "Prediction": "Entailment"
+    },
+    "2144": {
+        "Prediction": "Entailment"
+    },
+    "5762": {
+        "Prediction": "Contradiction"
+    },
+    "6662": {
+        "Prediction": "Contradiction"
+    },
+    "1663": {
+        "Prediction": "Entailment"
+    },
+    "757": {
+        "Prediction": "Entailment"
+    },
+    "6930": {
+        "Prediction": "Entailment"
+    },
+    "6318": {
+        "Prediction": "Entailment"
+    },
+    "1072": {
+        "Prediction": "Contradiction"
+    },
+    "4253": {
+        "Prediction": "Entailment"
+    },
+    "4823": {
+        "Prediction": "Entailment"
+    },
+    "6789": {
+        "Prediction": "Contradiction"
+    },
+    "6776": {
+        "Prediction": "Contradiction"
+    },
+    "1778": {
+        "Prediction": "Contradiction"
+    },
+    "5443": {
+        "Prediction": "Entailment"
+    },
+    "4081": {
+        "Prediction": "Entailment"
+    },
+    "2909": {
+        "Prediction": "Entailment"
+    },
+    "1842": {
+        "Prediction": "Entailment"
+    },
+    "2438": {
+        "Prediction": "Entailment"
+    },
+    "5965": {
+        "Prediction": "Contradiction"
+    },
+    "4107": {
+        "Prediction": "Entailment"
+    },
+    "344": {
+        "Prediction": "Entailment"
+    },
+    "5162": {
+        "Prediction": "Entailment"
+    },
+    "108": {
+        "Prediction": "Contradiction"
+    },
+    "5558": {
+        "Prediction": "Contradiction"
+    },
+    "6943": {
+        "Prediction": "Entailment"
+    },
+    "3480": {
+        "Prediction": "Contradiction"
+    },
+    "5852": {
+        "Prediction": "Contradiction"
+    },
+    "3570": {
+        "Prediction": "Entailment"
+    },
+    "1771": {
+        "Prediction": "Contradiction"
+    },
+    "4328": {
+        "Prediction": "Contradiction"
+    },
+    "3959": {
+        "Prediction": "Entailment"
+    },
+    "5643": {
+        "Prediction": "Contradiction"
+    },
+    "4985": {
+        "Prediction": "Entailment"
+    },
+    "6834": {
+        "Prediction": "Contradiction"
+    },
+    "6734": {
+        "Prediction": "Entailment"
+    },
+    "4603": {
+        "Prediction": "Contradiction"
+    },
+    "4709": {
+        "Prediction": "Contradiction"
+    },
+    "1682": {
+        "Prediction": "Contradiction"
+    },
+    "5836": {
+        "Prediction": "Contradiction"
+    },
+    "4126": {
+        "Prediction": "Contradiction"
+    },
+    "4809": {
+        "Prediction": "Entailment"
+    },
+    "1547": {
+        "Prediction": "Contradiction"
+    },
+    "5152": {
+        "Prediction": "Contradiction"
+    },
+    "3779": {
+        "Prediction": "Entailment"
+    },
+    "1339": {
+        "Prediction": "Entailment"
+    },
+    "6458": {
+        "Prediction": "Entailment"
+    },
+    "5525": {
+        "Prediction": "Entailment"
+    },
+    "3048": {
+        "Prediction": "Contradiction"
+    },
+    "3378": {
+        "Prediction": "Contradiction"
+    },
+    "6314": {
+        "Prediction": "Entailment"
+    },
+    "4995": {
+        "Prediction": "Entailment"
+    },
+    "3488": {
+        "Prediction": "Entailment"
+    },
+    "3369": {
+        "Prediction": "Contradiction"
+    },
+    "1679": {
+        "Prediction": "Entailment"
+    },
+    "1537": {
+        "Prediction": "Contradiction"
+    },
+    "1473": {
+        "Prediction": "Entailment"
+    },
+    "3610": {
+        "Prediction": "Entailment"
+    },
+    "1759": {
+        "Prediction": "Contradiction"
+    },
+    "5661": {
+        "Prediction": "Contradiction"
+    },
+    "5481": {
+        "Prediction": "Entailment"
+    },
+    "2981": {
+        "Prediction": "Contradiction"
+    },
+    "6218": {
+        "Prediction": "Contradiction"
+    },
+    "352": {
+        "Prediction": "Contradiction"
+    },
+    "5922": {
+        "Prediction": "Contradiction"
+    },
+    "3478": {
+        "Prediction": "Contradiction"
+    },
+    "2323": {
+        "Prediction": "Entailment"
+    },
+    "3561": {
+        "Prediction": "Entailment"
+    },
+    "5953": {
+        "Prediction": "Contradiction"
+    },
+    "5157": {
+        "Prediction": "Contradiction"
+    },
+    "277": {
+        "Prediction": "Contradiction"
+    },
+    "6979": {
+        "Prediction": "Entailment"
+    },
+    "5030": {
+        "Prediction": "Entailment"
+    },
+    "1847": {
+        "Prediction": "Entailment"
+    },
+    "1509": {
+        "Prediction": "Contradiction"
+    },
+    "4887": {
+        "Prediction": "Entailment"
+    },
+    "4142": {
+        "Prediction": "Contradiction"
+    },
+    "1286": {
+        "Prediction": "Entailment"
+    },
+    "1161": {
+        "Prediction": "Entailment"
+    },
+    "5357": {
+        "Prediction": "Contradiction"
+    },
+    "4278": {
+        "Prediction": "Contradiction"
+    },
+    "795": {
+        "Prediction": "Contradiction"
+    },
+    "6320": {
+        "Prediction": "Contradiction"
+    },
+    "5888": {
+        "Prediction": "Contradiction"
+    },
+    "4783": {
+        "Prediction": "Entailment"
+    },
+    "4654": {
+        "Prediction": "Contradiction"
+    },
+    "2683": {
+        "Prediction": "Entailment"
+    },
+    "6917": {
+        "Prediction": "Entailment"
+    },
+    "6952": {
+        "Prediction": "Entailment"
+    },
+    "2570": {
+        "Prediction": "Contradiction"
+    },
+    "4236": {
+        "Prediction": "Contradiction"
+    },
+    "5192": {
+        "Prediction": "Entailment"
+    },
+    "410": {
+        "Prediction": "Entailment"
+    },
+    "159": {
+        "Prediction": "Entailment"
+    },
+    "131": {
+        "Prediction": "Contradiction"
+    },
+    "6092": {
+        "Prediction": "Entailment"
+    },
+    "2582": {
+        "Prediction": "Entailment"
+    },
+    "553": {
+        "Prediction": "Contradiction"
+    },
+    "6192": {
+        "Prediction": "Contradiction"
+    },
+    "5544": {
+        "Prediction": "Contradiction"
+    },
+    "2860": {
+        "Prediction": "Entailment"
+    },
+    "945": {
+        "Prediction": "Entailment"
+    },
+    "2949": {
+        "Prediction": "Contradiction"
+    },
+    "2310": {
+        "Prediction": "Contradiction"
+    },
+    "257": {
+        "Prediction": "Contradiction"
+    },
+    "6635": {
+        "Prediction": "Contradiction"
+    },
+    "5441": {
+        "Prediction": "Entailment"
+    },
+    "1244": {
+        "Prediction": "Entailment"
+    },
+    "6907": {
+        "Prediction": "Entailment"
+    },
+    "1680": {
+        "Prediction": "Entailment"
+    },
+    "6657": {
+        "Prediction": "Entailment"
+    },
+    "1178": {
+        "Prediction": "Entailment"
+    },
+    "3721": {
+        "Prediction": "Entailment"
+    },
+    "1514": {
+        "Prediction": "Entailment"
+    },
+    "2898": {
+        "Prediction": "Contradiction"
+    },
+    "353": {
+        "Prediction": "Contradiction"
+    },
+    "419": {
+        "Prediction": "Contradiction"
+    },
+    "3029": {
+        "Prediction": "Entailment"
+    },
+    "6059": {
+        "Prediction": "Contradiction"
+    },
+    "1003": {
+        "Prediction": "Entailment"
+    },
+    "1974": {
+        "Prediction": "Contradiction"
+    },
+    "1995": {
+        "Prediction": "Entailment"
+    },
+    "3171": {
+        "Prediction": "Entailment"
+    },
+    "145": {
+        "Prediction": "Entailment"
+    },
+    "1906": {
+        "Prediction": "Entailment"
+    },
+    "4484": {
+        "Prediction": "Contradiction"
+    },
+    "2926": {
+        "Prediction": "Entailment"
+    },
+    "6810": {
+        "Prediction": "Contradiction"
+    },
+    "1777": {
+        "Prediction": "Contradiction"
+    },
+    "6504": {
+        "Prediction": "Entailment"
+    },
+    "180": {
+        "Prediction": "Entailment"
+    },
+    "2551": {
+        "Prediction": "Entailment"
+    },
+    "529": {
+        "Prediction": "Contradiction"
+    },
+    "3932": {
+        "Prediction": "Entailment"
+    },
+    "840": {
+        "Prediction": "Entailment"
+    },
+    "2720": {
+        "Prediction": "Entailment"
+    },
+    "839": {
+        "Prediction": "Contradiction"
+    },
+    "6286": {
+        "Prediction": "Contradiction"
+    },
+    "1452": {
+        "Prediction": "Entailment"
+    },
+    "2888": {
+        "Prediction": "Contradiction"
+    },
+    "6044": {
+        "Prediction": "Contradiction"
+    },
+    "5795": {
+        "Prediction": "Entailment"
+    },
+    "2754": {
+        "Prediction": "Entailment"
+    },
+    "4822": {
+        "Prediction": "Entailment"
+    },
+    "1585": {
+        "Prediction": "Contradiction"
+    },
+    "4535": {
+        "Prediction": "Contradiction"
+    },
+    "2797": {
+        "Prediction": "Entailment"
+    },
+    "387": {
+        "Prediction": "Contradiction"
+    },
+    "3459": {
+        "Prediction": "Entailment"
+    },
+    "1164": {
+        "Prediction": "Contradiction"
+    },
+    "4838": {
+        "Prediction": "Entailment"
+    },
+    "4047": {
+        "Prediction": "Entailment"
+    },
+    "4806": {
+        "Prediction": "Entailment"
+    },
+    "474": {
+        "Prediction": "Contradiction"
+    },
+    "1201": {
+        "Prediction": "Contradiction"
+    },
+    "5461": {
+        "Prediction": "Entailment"
+    },
+    "1763": {
+        "Prediction": "Contradiction"
+    },
+    "6034": {
+        "Prediction": "Contradiction"
+    },
+    "6623": {
+        "Prediction": "Contradiction"
+    },
+    "3836": {
+        "Prediction": "Entailment"
+    },
+    "4160": {
+        "Prediction": "Entailment"
+    },
+    "2883": {
+        "Prediction": "Contradiction"
+    },
+    "5637": {
+        "Prediction": "Contradiction"
+    },
+    "3373": {
+        "Prediction": "Contradiction"
+    },
+    "2637": {
+        "Prediction": "Contradiction"
+    },
+    "3704": {
+        "Prediction": "Entailment"
+    },
+    "1789": {
+        "Prediction": "Contradiction"
+    },
+    "5781": {
+        "Prediction": "Contradiction"
+    },
+    "1406": {
+        "Prediction": "Entailment"
+    },
+    "6766": {
+        "Prediction": "Entailment"
+    },
+    "1845": {
+        "Prediction": "Contradiction"
+    },
+    "6498": {
+        "Prediction": "Entailment"
+    },
+    "6873": {
+        "Prediction": "Contradiction"
+    },
+    "4831": {
+        "Prediction": "Contradiction"
+    },
+    "6700": {
+        "Prediction": "Contradiction"
+    },
+    "1957": {
+        "Prediction": "Contradiction"
+    },
+    "3456": {
+        "Prediction": "Entailment"
+    },
+    "3753": {
+        "Prediction": "Entailment"
+    },
+    "6720": {
+        "Prediction": "Contradiction"
+    },
+    "2143": {
+        "Prediction": "Entailment"
+    },
+    "1990": {
+        "Prediction": "Contradiction"
+    },
+    "4200": {
+        "Prediction": "Contradiction"
+    },
+    "2793": {
+        "Prediction": "Contradiction"
+    },
+    "6507": {
+        "Prediction": "Entailment"
+    },
+    "6382": {
+        "Prediction": "Entailment"
+    },
+    "3049": {
+        "Prediction": "Contradiction"
+    },
+    "3199": {
+        "Prediction": "Entailment"
+    },
+    "1652": {
+        "Prediction": "Contradiction"
+    },
+    "6319": {
+        "Prediction": "Entailment"
+    },
+    "4407": {
+        "Prediction": "Entailment"
+    },
+    "3224": {
+        "Prediction": "Entailment"
+    },
+    "5096": {
+        "Prediction": "Entailment"
+    },
+    "6502": {
+        "Prediction": "Entailment"
+    },
+    "62": {
+        "Prediction": "Contradiction"
+    },
+    "2788": {
+        "Prediction": "Entailment"
+    },
+    "6235": {
+        "Prediction": "Entailment"
+    },
+    "5521": {
+        "Prediction": "Entailment"
+    },
+    "3844": {
+        "Prediction": "Entailment"
+    },
+    "4106": {
+        "Prediction": "Contradiction"
+    },
+    "6669": {
+        "Prediction": "Entailment"
+    },
+    "6649": {
+        "Prediction": "Entailment"
+    },
+    "2795": {
+        "Prediction": "Entailment"
+    },
+    "1598": {
+        "Prediction": "Contradiction"
+    },
+    "918": {
+        "Prediction": "Entailment"
+    },
+    "6110": {
+        "Prediction": "Contradiction"
+    },
+    "1299": {
+        "Prediction": "Contradiction"
+    },
+    "2207": {
+        "Prediction": "Entailment"
+    },
+    "6444": {
+        "Prediction": "Entailment"
+    },
+    "6891": {
+        "Prediction": "Entailment"
+    },
+    "6425": {
+        "Prediction": "Entailment"
+    },
+    "192": {
+        "Prediction": "Contradiction"
+    },
+    "416": {
+        "Prediction": "Entailment"
+    },
+    "50": {
+        "Prediction": "Contradiction"
+    },
+    "3359": {
+        "Prediction": "Contradiction"
+    },
+    "2266": {
+        "Prediction": "Contradiction"
+    },
+    "2057": {
+        "Prediction": "Entailment"
+    },
+    "6468": {
+        "Prediction": "Entailment"
+    },
+    "2724": {
+        "Prediction": "Entailment"
+    },
+    "6867": {
+        "Prediction": "Entailment"
+    },
+    "6783": {
+        "Prediction": "Entailment"
+    },
+    "3397": {
+        "Prediction": "Entailment"
+    },
+    "1592": {
+        "Prediction": "Contradiction"
+    },
+    "2093": {
+        "Prediction": "Entailment"
+    },
+    "6422": {
+        "Prediction": "Entailment"
+    },
+    "198": {
+        "Prediction": "Entailment"
+    },
+    "1601": {
+        "Prediction": "Contradiction"
+    },
+    "4520": {
+        "Prediction": "Contradiction"
+    },
+    "2316": {
+        "Prediction": "Contradiction"
+    },
+    "2990": {
+        "Prediction": "Contradiction"
+    },
+    "5963": {
+        "Prediction": "Contradiction"
+    },
+    "2046": {
+        "Prediction": "Contradiction"
+    },
+    "983": {
+        "Prediction": "Contradiction"
+    },
+    "3116": {
+        "Prediction": "Contradiction"
+    },
+    "681": {
+        "Prediction": "Entailment"
+    },
+    "3184": {
+        "Prediction": "Contradiction"
+    },
+    "2889": {
+        "Prediction": "Contradiction"
+    },
+    "1837": {
+        "Prediction": "Entailment"
+    },
+    "5994": {
+        "Prediction": "Contradiction"
+    },
+    "2809": {
+        "Prediction": "Contradiction"
+    },
+    "758": {
+        "Prediction": "Entailment"
+    },
+    "4555": {
+        "Prediction": "Contradiction"
+    },
+    "1522": {
+        "Prediction": "Entailment"
+    },
+    "1884": {
+        "Prediction": "Entailment"
+    },
+    "2041": {
+        "Prediction": "Contradiction"
+    },
+    "5097": {
+        "Prediction": "Entailment"
+    },
+    "6114": {
+        "Prediction": "Contradiction"
+    },
+    "2983": {
+        "Prediction": "Contradiction"
+    },
+    "6247": {
+        "Prediction": "Contradiction"
+    },
+    "4594": {
+        "Prediction": "Contradiction"
+    },
+    "3152": {
+        "Prediction": "Contradiction"
+    },
+    "5006": {
+        "Prediction": "Entailment"
+    },
+    "2160": {
+        "Prediction": "Entailment"
+    },
+    "4538": {
+        "Prediction": "Contradiction"
+    },
+    "4247": {
+        "Prediction": "Contradiction"
+    },
+    "3952": {
+        "Prediction": "Contradiction"
+    },
+    "2": {
+        "Prediction": "Contradiction"
+    },
+    "1945": {
+        "Prediction": "Contradiction"
+    },
+    "4283": {
+        "Prediction": "Contradiction"
+    },
+    "6411": {
+        "Prediction": "Entailment"
+    },
+    "4355": {
+        "Prediction": "Entailment"
+    },
+    "774": {
+        "Prediction": "Entailment"
+    },
+    "5007": {
+        "Prediction": "Entailment"
+    },
+    "3265": {
+        "Prediction": "Entailment"
+    },
+    "4362": {
+        "Prediction": "Contradiction"
+    },
+    "6099": {
+        "Prediction": "Contradiction"
+    },
+    "6543": {
+        "Prediction": "Entailment"
+    },
+    "5598": {
+        "Prediction": "Contradiction"
+    },
+    "3310": {
+        "Prediction": "Entailment"
+    },
+    "4889": {
+        "Prediction": "Entailment"
+    },
+    "6821": {
+        "Prediction": "Entailment"
+    },
+    "2341": {
+        "Prediction": "Entailment"
+    },
+    "3318": {
+        "Prediction": "Entailment"
+    },
+    "1756": {
+        "Prediction": "Contradiction"
+    },
+    "6947": {
+        "Prediction": "Entailment"
+    },
+    "1802": {
+        "Prediction": "Contradiction"
+    },
+    "6855": {
+        "Prediction": "Entailment"
+    },
+    "3579": {
+        "Prediction": "Entailment"
+    },
+    "6868": {
+        "Prediction": "Entailment"
+    },
+    "3796": {
+        "Prediction": "Entailment"
+    },
+    "1274": {
+        "Prediction": "Contradiction"
+    },
+    "1231": {
+        "Prediction": "Contradiction"
+    },
+    "3578": {
+        "Prediction": "Contradiction"
+    },
+    "2102": {
+        "Prediction": "Entailment"
+    },
+    "809": {
+        "Prediction": "Contradiction"
+    },
+    "415": {
+        "Prediction": "Entailment"
+    },
+    "3856": {
+        "Prediction": "Entailment"
+    },
+    "1206": {
+        "Prediction": "Entailment"
+    },
+    "1982": {
+        "Prediction": "Contradiction"
+    },
+    "2304": {
+        "Prediction": "Contradiction"
+    },
+    "878": {
+        "Prediction": "Contradiction"
+    },
+    "3701": {
+        "Prediction": "Contradiction"
+    },
+    "4908": {
+        "Prediction": "Entailment"
+    },
+    "2479": {
+        "Prediction": "Contradiction"
+    },
+    "5813": {
+        "Prediction": "Contradiction"
+    },
+    "6323": {
+        "Prediction": "Entailment"
+    },
+    "6630": {
+        "Prediction": "Entailment"
+    },
+    "725": {
+        "Prediction": "Entailment"
+    },
+    "3477": {
+        "Prediction": "Contradiction"
+    },
+    "919": {
+        "Prediction": "Entailment"
+    },
+    "4073": {
+        "Prediction": "Entailment"
+    },
+    "5036": {
+        "Prediction": "Entailment"
+    },
+    "2001": {
+        "Prediction": "Contradiction"
+    },
+    "5224": {
+        "Prediction": "Entailment"
+    },
+    "4721": {
+        "Prediction": "Entailment"
+    },
+    "436": {
+        "Prediction": "Contradiction"
+    },
+    "1380": {
+        "Prediction": "Entailment"
+    },
+    "4507": {
+        "Prediction": "Contradiction"
+    },
+    "2134": {
+        "Prediction": "Entailment"
+    },
+    "6262": {
+        "Prediction": "Contradiction"
+    },
+    "5118": {
+        "Prediction": "Entailment"
+    },
+    "1401": {
+        "Prediction": "Contradiction"
+    },
+    "4717": {
+        "Prediction": "Contradiction"
+    },
+    "1951": {
+        "Prediction": "Contradiction"
+    },
+    "3978": {
+        "Prediction": "Entailment"
+    },
+    "1357": {
+        "Prediction": "Entailment"
+    },
+    "688": {
+        "Prediction": "Entailment"
+    },
+    "6612": {
+        "Prediction": "Entailment"
+    },
+    "5464": {
+        "Prediction": "Contradiction"
+    },
+    "523": {
+        "Prediction": "Contradiction"
+    },
+    "6853": {
+        "Prediction": "Entailment"
+    },
+    "5002": {
+        "Prediction": "Contradiction"
+    },
+    "6075": {
+        "Prediction": "Contradiction"
+    },
+    "3018": {
+        "Prediction": "Contradiction"
+    },
+    "6": {
+        "Prediction": "Contradiction"
+    },
+    "2811": {
+        "Prediction": "Entailment"
+    },
+    "2734": {
+        "Prediction": "Entailment"
+    },
+    "4510": {
+        "Prediction": "Contradiction"
+    },
+    "3111": {
+        "Prediction": "Entailment"
+    },
+    "4739": {
+        "Prediction": "Contradiction"
+    },
+    "5385": {
+        "Prediction": "Entailment"
+    },
+    "3864": {
+        "Prediction": "Entailment"
+    },
+    "5639": {
+        "Prediction": "Entailment"
+    },
+    "6454": {
+        "Prediction": "Entailment"
+    },
+    "5816": {
+        "Prediction": "Contradiction"
+    },
+    "6817": {
+        "Prediction": "Entailment"
+    },
+    "16": {
+        "Prediction": "Contradiction"
+    },
+    "2768": {
+        "Prediction": "Entailment"
+    },
+    "6763": {
+        "Prediction": "Entailment"
+    },
+    "3286": {
+        "Prediction": "Contradiction"
+    },
+    "299": {
+        "Prediction": "Contradiction"
+    },
+    "3113": {
+        "Prediction": "Contradiction"
+    },
+    "151": {
+        "Prediction": "Entailment"
+    },
+    "2148": {
+        "Prediction": "Entailment"
+    },
+    "5430": {
+        "Prediction": "Contradiction"
+    },
+    "611": {
+        "Prediction": "Contradiction"
+    },
+    "6670": {
+        "Prediction": "Entailment"
+    },
+    "1340": {
+        "Prediction": "Entailment"
+    },
+    "6091": {
+        "Prediction": "Contradiction"
+    },
+    "4295": {
+        "Prediction": "Contradiction"
+    },
+    "3319": {
+        "Prediction": "Contradiction"
+    },
+    "5871": {
+        "Prediction": "Contradiction"
+    },
+    "4044": {
+        "Prediction": "Entailment"
+    },
+    "1257": {
+        "Prediction": "Contradiction"
+    },
+    "3085": {
+        "Prediction": "Contradiction"
+    },
+    "274": {
+        "Prediction": "Entailment"
+    },
+    "3737": {
+        "Prediction": "Entailment"
+    },
+    "2559": {
+        "Prediction": "Entailment"
+    },
+    "5050": {
+        "Prediction": "Entailment"
+    },
+    "414": {
+        "Prediction": "Contradiction"
+    },
+    "691": {
+        "Prediction": "Entailment"
+    },
+    "3347": {
+        "Prediction": "Contradiction"
+    },
+    "777": {
+        "Prediction": "Entailment"
+    },
+    "5284": {
+        "Prediction": "Entailment"
+    },
+    "5891": {
+        "Prediction": "Contradiction"
+    },
+    "442": {
+        "Prediction": "Contradiction"
+    },
+    "4562": {
+        "Prediction": "Contradiction"
+    },
+    "6331": {
+        "Prediction": "Entailment"
+    },
+    "905": {
+        "Prediction": "Entailment"
+    },
+    "4830": {
+        "Prediction": "Entailment"
+    },
+    "2434": {
+        "Prediction": "Entailment"
+    },
+    "3801": {
+        "Prediction": "Entailment"
+    },
+    "368": {
+        "Prediction": "Contradiction"
+    },
+    "1557": {
+        "Prediction": "Contradiction"
+    },
+    "1986": {
+        "Prediction": "Contradiction"
+    },
+    "5681": {
+        "Prediction": "Contradiction"
+    },
+    "97": {
+        "Prediction": "Contradiction"
+    },
+    "6024": {
+        "Prediction": "Contradiction"
+    },
+    "3803": {
+        "Prediction": "Entailment"
+    },
+    "6057": {
+        "Prediction": "Contradiction"
+    },
+    "514": {
+        "Prediction": "Contradiction"
+    },
+    "4189": {
+        "Prediction": "Contradiction"
+    },
+    "3809": {
+        "Prediction": "Entailment"
+    },
+    "5174": {
+        "Prediction": "Entailment"
+    },
+    "6634": {
+        "Prediction": "Entailment"
+    },
+    "1088": {
+        "Prediction": "Contradiction"
+    },
+    "25": {
+        "Prediction": "Contradiction"
+    },
+    "4352": {
+        "Prediction": "Entailment"
+    },
+    "3190": {
+        "Prediction": "Entailment"
+    },
+    "3549": {
+        "Prediction": "Contradiction"
+    },
+    "3633": {
+        "Prediction": "Entailment"
+    },
+    "4670": {
+        "Prediction": "Contradiction"
+    },
+    "2841": {
+        "Prediction": "Contradiction"
+    },
+    "2237": {
+        "Prediction": "Entailment"
+    },
+    "6407": {
+        "Prediction": "Entailment"
+    },
+    "4282": {
+        "Prediction": "Contradiction"
+    },
+    "5197": {
+        "Prediction": "Entailment"
+    },
+    "2267": {
+        "Prediction": "Contradiction"
+    },
+    "126": {
+        "Prediction": "Contradiction"
+    },
+    "2589": {
+        "Prediction": "Entailment"
+    },
+    "107": {
+        "Prediction": "Contradiction"
+    },
+    "5015": {
+        "Prediction": "Entailment"
+    },
+    "3428": {
+        "Prediction": "Entailment"
+    },
+    "1719": {
+        "Prediction": "Entailment"
+    },
+    "696": {
+        "Prediction": "Entailment"
+    },
+    "2612": {
+        "Prediction": "Contradiction"
+    },
+    "3010": {
+        "Prediction": "Contradiction"
+    },
+    "6956": {
+        "Prediction": "Entailment"
+    },
+    "2702": {
+        "Prediction": "Entailment"
+    },
+    "3916": {
+        "Prediction": "Entailment"
+    },
+    "3065": {
+        "Prediction": "Contradiction"
+    },
+    "4749": {
+        "Prediction": "Contradiction"
+    },
+    "3961": {
+        "Prediction": "Entailment"
+    },
+    "5974": {
+        "Prediction": "Contradiction"
+    },
+    "4634": {
+        "Prediction": "Contradiction"
+    },
+    "1644": {
+        "Prediction": "Contradiction"
+    },
+    "3082": {
+        "Prediction": "Contradiction"
+    },
+    "1742": {
+        "Prediction": "Entailment"
+    },
+    "2716": {
+        "Prediction": "Contradiction"
+    },
+    "6807": {
+        "Prediction": "Entailment"
+    },
+    "5190": {
+        "Prediction": "Entailment"
+    },
+    "2153": {
+        "Prediction": "Entailment"
+    },
+    "2000": {
+        "Prediction": "Contradiction"
+    },
+    "976": {
+        "Prediction": "Contradiction"
+    },
+    "6648": {
+        "Prediction": "Entailment"
+    },
+    "6008": {
+        "Prediction": "Contradiction"
+    },
+    "4139": {
+        "Prediction": "Contradiction"
+    },
+    "2161": {
+        "Prediction": "Contradiction"
+    },
+    "6888": {
+        "Prediction": "Entailment"
+    },
+    "6350": {
+        "Prediction": "Entailment"
+    },
+    "5589": {
+        "Prediction": "Contradiction"
+    },
+    "3509": {
+        "Prediction": "Entailment"
+    },
+    "2504": {
+        "Prediction": "Entailment"
+    },
+    "6862": {
+        "Prediction": "Entailment"
+    },
+    "6485": {
+        "Prediction": "Entailment"
+    },
+    "6276": {
+        "Prediction": "Entailment"
+    },
+    "6367": {
+        "Prediction": "Entailment"
+    },
+    "5555": {
+        "Prediction": "Contradiction"
+    },
+    "5973": {
+        "Prediction": "Contradiction"
+    },
+    "2327": {
+        "Prediction": "Contradiction"
+    },
+    "3946": {
+        "Prediction": "Entailment"
+    },
+    "6859": {
+        "Prediction": "Entailment"
+    },
+    "4343": {
+        "Prediction": "Entailment"
+    },
+    "5244": {
+        "Prediction": "Entailment"
+    },
+    "4176": {
+        "Prediction": "Entailment"
+    },
+    "6526": {
+        "Prediction": "Entailment"
+    },
+    "1211": {
+        "Prediction": "Entailment"
+    },
+    "346": {
+        "Prediction": "Contradiction"
+    },
+    "841": {
+        "Prediction": "Contradiction"
+    },
+    "2495": {
+        "Prediction": "Entailment"
+    },
+    "5906": {
+        "Prediction": "Contradiction"
+    },
+    "2340": {
+        "Prediction": "Contradiction"
+    },
+    "1936": {
+        "Prediction": "Entailment"
+    },
+    "4202": {
+        "Prediction": "Entailment"
+    },
+    "6904": {
+        "Prediction": "Entailment"
+    },
+    "820": {
+        "Prediction": "Entailment"
+    },
+    "281": {
+        "Prediction": "Entailment"
+    },
+    "794": {
+        "Prediction": "Entailment"
+    },
+    "2782": {
+        "Prediction": "Entailment"
+    },
+    "3536": {
+        "Prediction": "Contradiction"
+    },
+    "2936": {
+        "Prediction": "Contradiction"
+    },
+    "3951": {
+        "Prediction": "Entailment"
+    },
+    "3746": {
+        "Prediction": "Entailment"
+    },
+    "1488": {
+        "Prediction": "Contradiction"
+    },
+    "2756": {
+        "Prediction": "Entailment"
+    },
+    "3143": {
+        "Prediction": "Entailment"
+    },
+    "3267": {
+        "Prediction": "Entailment"
+    },
+    "5676": {
+        "Prediction": "Entailment"
+    },
+    "663": {
+        "Prediction": "Contradiction"
+    },
+    "3134": {
+        "Prediction": "Entailment"
+    },
+    "635": {
+        "Prediction": "Contradiction"
+    },
+    "3487": {
+        "Prediction": "Entailment"
+    },
+    "6618": {
+        "Prediction": "Contradiction"
+    },
+    "4020": {
+        "Prediction": "Entailment"
+    },
+    "2449": {
+        "Prediction": "Entailment"
+    },
+    "4741": {
+        "Prediction": "Entailment"
+    },
+    "984": {
+        "Prediction": "Entailment"
+    },
+    "3928": {
+        "Prediction": "Entailment"
+    },
+    "769": {
+        "Prediction": "Contradiction"
+    },
+    "6349": {
+        "Prediction": "Entailment"
+    },
+    "6782": {
+        "Prediction": "Entailment"
+    },
+    "1993": {
+        "Prediction": "Contradiction"
+    },
+    "1724": {
+        "Prediction": "Entailment"
+    },
+    "686": {
+        "Prediction": "Contradiction"
+    },
+    "1358": {
+        "Prediction": "Entailment"
+    },
+    "2325": {
+        "Prediction": "Entailment"
+    },
+    "5744": {
+        "Prediction": "Contradiction"
+    },
+    "1693": {
+        "Prediction": "Entailment"
+    },
+    "6269": {
+        "Prediction": "Contradiction"
+    },
+    "5991": {
+        "Prediction": "Contradiction"
+    },
+    "2822": {
+        "Prediction": "Entailment"
+    },
+    "6315": {
+        "Prediction": "Entailment"
+    },
+    "6259": {
+        "Prediction": "Entailment"
+    },
+    "1589": {
+        "Prediction": "Contradiction"
+    },
+    "4458": {
+        "Prediction": "Entailment"
+    },
+    "3581": {
+        "Prediction": "Contradiction"
+    },
+    "5893": {
+        "Prediction": "Contradiction"
+    },
+    "552": {
+        "Prediction": "Contradiction"
+    },
+    "5792": {
+        "Prediction": "Entailment"
+    },
+    "1998": {
+        "Prediction": "Contradiction"
+    },
+    "1604": {
+        "Prediction": "Contradiction"
+    },
+    "6020": {
+        "Prediction": "Contradiction"
+    },
+    "3483": {
+        "Prediction": "Contradiction"
+    },
+    "6204": {
+        "Prediction": "Entailment"
+    },
+    "4404": {
+        "Prediction": "Entailment"
+    },
+    "2518": {
+        "Prediction": "Contradiction"
+    },
+    "702": {
+        "Prediction": "Entailment"
+    },
+    "3656": {
+        "Prediction": "Contradiction"
+    },
+    "2357": {
+        "Prediction": "Entailment"
+    },
+    "598": {
+        "Prediction": "Entailment"
+    },
+    "5623": {
+        "Prediction": "Contradiction"
+    },
+    "4367": {
+        "Prediction": "Entailment"
+    },
+    "6665": {
+        "Prediction": "Entailment"
+    },
+    "1718": {
+        "Prediction": "Entailment"
+    },
+    "961": {
+        "Prediction": "Entailment"
+    },
+    "1143": {
+        "Prediction": "Contradiction"
+    },
+    "853": {
+        "Prediction": "Entailment"
+    },
+    "6626": {
+        "Prediction": "Entailment"
+    },
+    "6530": {
+        "Prediction": "Contradiction"
+    },
+    "2191": {
+        "Prediction": "Entailment"
+    },
+    "916": {
+        "Prediction": "Entailment"
+    },
+    "1075": {
+        "Prediction": "Entailment"
+    },
+    "4270": {
+        "Prediction": "Entailment"
+    },
+    "282": {
+        "Prediction": "Contradiction"
+    },
+    "4680": {
+        "Prediction": "Contradiction"
+    },
+    "1864": {
+        "Prediction": "Contradiction"
+    },
+    "848": {
+        "Prediction": "Entailment"
+    },
+    "2348": {
+        "Prediction": "Contradiction"
+    },
+    "2123": {
+        "Prediction": "Contradiction"
+    },
+    "5522": {
+        "Prediction": "Contradiction"
+    },
+    "5920": {
+        "Prediction": "Contradiction"
+    },
+    "2783": {
+        "Prediction": "Entailment"
+    },
+    "3758": {
+        "Prediction": "Entailment"
+    },
+    "3400": {
+        "Prediction": "Contradiction"
+    },
+    "3511": {
+        "Prediction": "Entailment"
+    },
+    "3020": {
+        "Prediction": "Contradiction"
+    },
+    "2696": {
+        "Prediction": "Entailment"
+    },
+    "1482": {
+        "Prediction": "Entailment"
+    },
+    "3612": {
+        "Prediction": "Entailment"
+    },
+    "3204": {
+        "Prediction": "Entailment"
+    },
+    "3530": {
+        "Prediction": "Entailment"
+    },
+    "2902": {
+        "Prediction": "Contradiction"
+    },
+    "6920": {
+        "Prediction": "Entailment"
+    },
+    "4761": {
+        "Prediction": "Entailment"
+    },
+    "1861": {
+        "Prediction": "Contradiction"
+    },
+    "4290": {
+        "Prediction": "Contradiction"
+    },
+    "5027": {
+        "Prediction": "Entailment"
+    },
+    "3520": {
+        "Prediction": "Contradiction"
+    },
+    "3068": {
+        "Prediction": "Entailment"
+    },
+    "372": {
+        "Prediction": "Contradiction"
+    },
+    "4702": {
+        "Prediction": "Contradiction"
+    },
+    "5817": {
+        "Prediction": "Contradiction"
+    },
+    "938": {
+        "Prediction": "Entailment"
+    },
+    "5471": {
+        "Prediction": "Entailment"
+    },
+    "3348": {
+        "Prediction": "Contradiction"
+    },
+    "1783": {
+        "Prediction": "Contradiction"
+    },
+    "451": {
+        "Prediction": "Contradiction"
+    },
+    "4061": {
+        "Prediction": "Entailment"
+    },
+    "960": {
+        "Prediction": "Entailment"
+    },
+    "3562": {
+        "Prediction": "Entailment"
+    },
+    "4593": {
+        "Prediction": "Contradiction"
+    },
+    "3115": {
+        "Prediction": "Contradiction"
+    },
+    "3177": {
+        "Prediction": "Entailment"
+    },
+    "2048": {
+        "Prediction": "Entailment"
+    },
+    "6208": {
+        "Prediction": "Entailment"
+    },
+    "4447": {
+        "Prediction": "Contradiction"
+    },
+    "990": {
+        "Prediction": "Entailment"
+    },
+    "659": {
+        "Prediction": "Entailment"
+    },
+    "3043": {
+        "Prediction": "Entailment"
+    },
+    "6216": {
+        "Prediction": "Contradiction"
+    },
+    "3547": {
+        "Prediction": "Entailment"
+    },
+    "3197": {
+        "Prediction": "Entailment"
+    },
+    "6050": {
+        "Prediction": "Contradiction"
+    },
+    "4643": {
+        "Prediction": "Contradiction"
+    },
+    "6679": {
+        "Prediction": "Contradiction"
+    },
+    "6438": {
+        "Prediction": "Entailment"
+    },
+    "5484": {
+        "Prediction": "Entailment"
+    },
+    "4598": {
+        "Prediction": "Contradiction"
+    },
+    "2367": {
+        "Prediction": "Entailment"
+    },
+    "603": {
+        "Prediction": "Contradiction"
+    },
+    "4039": {
+        "Prediction": "Entailment"
+    },
+    "5056": {
+        "Prediction": "Entailment"
+    },
+    "5446": {
+        "Prediction": "Entailment"
+    },
+    "3182": {
+        "Prediction": "Entailment"
+    },
+    "6790": {
+        "Prediction": "Contradiction"
+    },
+    "2122": {
+        "Prediction": "Entailment"
+    },
+    "3300": {
+        "Prediction": "Contradiction"
+    },
+    "30": {
+        "Prediction": "Contradiction"
+    },
+    "6378": {
+        "Prediction": "Contradiction"
+    },
+    "464": {
+        "Prediction": "Contradiction"
+    },
+    "4490": {
+        "Prediction": "Contradiction"
+    },
+    "2295": {
+        "Prediction": "Contradiction"
+    },
+    "2744": {
+        "Prediction": "Entailment"
+    },
+    "4933": {
+        "Prediction": "Entailment"
+    },
+    "5058": {
+        "Prediction": "Contradiction"
+    },
+    "3202": {
+        "Prediction": "Entailment"
+    },
+    "111": {
+        "Prediction": "Contradiction"
+    },
+    "5740": {
+        "Prediction": "Contradiction"
+    },
+    "5767": {
+        "Prediction": "Contradiction"
+    },
+    "557": {
+        "Prediction": "Contradiction"
+    },
+    "1468": {
+        "Prediction": "Entailment"
+    },
+    "5825": {
+        "Prediction": "Contradiction"
+    },
+    "3624": {
+        "Prediction": "Entailment"
+    },
+    "706": {
+        "Prediction": "Contradiction"
+    },
+    "6193": {
+        "Prediction": "Contradiction"
+    },
+    "6066": {
+        "Prediction": "Entailment"
+    },
+    "2162": {
+        "Prediction": "Entailment"
+    },
+    "1595": {
+        "Prediction": "Contradiction"
+    },
+    "3162": {
+        "Prediction": "Entailment"
+    },
+    "1328": {
+        "Prediction": "Contradiction"
+    },
+    "3174": {
+        "Prediction": "Entailment"
+    },
+    "5602": {
+        "Prediction": "Contradiction"
+    },
+    "1978": {
+        "Prediction": "Contradiction"
+    },
+    "318": {
+        "Prediction": "Contradiction"
+    },
+    "1653": {
+        "Prediction": "Entailment"
+    },
+    "2029": {
+        "Prediction": "Entailment"
+    },
+    "418": {
+        "Prediction": "Contradiction"
+    },
+    "1035": {
+        "Prediction": "Entailment"
+    },
+    "1599": {
+        "Prediction": "Contradiction"
+    },
+    "5877": {
+        "Prediction": "Contradiction"
+    },
+    "1960": {
+        "Prediction": "Entailment"
+    },
+    "6740": {
+        "Prediction": "Entailment"
+    },
+    "2414": {
+        "Prediction": "Entailment"
+    },
+    "4118": {
+        "Prediction": "Contradiction"
+    },
+    "2611": {
+        "Prediction": "Entailment"
+    },
+    "1136": {
+        "Prediction": "Entailment"
+    },
+    "5668": {
+        "Prediction": "Contradiction"
+    },
+    "6836": {
+        "Prediction": "Entailment"
+    },
+    "4774": {
+        "Prediction": "Entailment"
+    },
+    "3757": {
+        "Prediction": "Entailment"
+    },
+    "5644": {
+        "Prediction": "Contradiction"
+    },
+    "3528": {
+        "Prediction": "Entailment"
+    },
+    "4619": {
+        "Prediction": "Contradiction"
+    },
+    "309": {
+        "Prediction": "Contradiction"
+    },
+    "3019": {
+        "Prediction": "Contradiction"
+    },
+    "3056": {
+        "Prediction": "Contradiction"
+    },
+    "3472": {
+        "Prediction": "Entailment"
+    },
+    "2017": {
+        "Prediction": "Entailment"
+    },
+    "3420": {
+        "Prediction": "Entailment"
+    },
+    "5833": {
+        "Prediction": "Contradiction"
+    },
+    "2644": {
+        "Prediction": "Entailment"
+    },
+    "2516": {
+        "Prediction": "Contradiction"
+    },
+    "6135": {
+        "Prediction": "Contradiction"
+    },
+    "241": {
+        "Prediction": "Entailment"
+    },
+    "566": {
+        "Prediction": "Entailment"
+    },
+    "2511": {
+        "Prediction": "Contradiction"
+    },
+    "4912": {
+        "Prediction": "Contradiction"
+    },
+    "5314": {
+        "Prediction": "Entailment"
+    },
+    "5322": {
+        "Prediction": "Entailment"
+    },
+    "1943": {
+        "Prediction": "Contradiction"
+    },
+    "6334": {
+        "Prediction": "Entailment"
+    },
+    "2870": {
+        "Prediction": "Entailment"
+    },
+    "2117": {
+        "Prediction": "Contradiction"
+    },
+    "3401": {
+        "Prediction": "Contradiction"
+    },
+    "3674": {
+        "Prediction": "Entailment"
+    },
+    "3542": {
+        "Prediction": "Entailment"
+    },
+    "3095": {
+        "Prediction": "Entailment"
+    },
+    "6695": {
+        "Prediction": "Entailment"
+    },
+    "4185": {
+        "Prediction": "Contradiction"
+    },
+    "2803": {
+        "Prediction": "Entailment"
+    },
+    "2925": {
+        "Prediction": "Entailment"
+    },
+    "5847": {
+        "Prediction": "Contradiction"
+    },
+    "1692": {
+        "Prediction": "Contradiction"
+    },
+    "179": {
+        "Prediction": "Entailment"
+    },
+    "5943": {
+        "Prediction": "Contradiction"
+    },
+    "3582": {
+        "Prediction": "Entailment"
+    },
+    "1253": {
+        "Prediction": "Contradiction"
+    },
+    "5850": {
+        "Prediction": "Contradiction"
+    },
+    "2662": {
+        "Prediction": "Entailment"
+    },
+    "6972": {
+        "Prediction": "Entailment"
+    },
+    "3450": {
+        "Prediction": "Contradiction"
+    },
+    "345": {
+        "Prediction": "Contradiction"
+    },
+    "3460": {
+        "Prediction": "Entailment"
+    },
+    "1614": {
+        "Prediction": "Contradiction"
+    },
+    "3770": {
+        "Prediction": "Entailment"
+    },
+    "4163": {
+        "Prediction": "Entailment"
+    },
+    "3078": {
+        "Prediction": "Contradiction"
+    },
+    "2557": {
+        "Prediction": "Contradiction"
+    },
+    "5621": {
+        "Prediction": "Contradiction"
+    },
+    "6656": {
+        "Prediction": "Entailment"
+    },
+    "6617": {
+        "Prediction": "Entailment"
+    },
+    "3747": {
+        "Prediction": "Contradiction"
+    },
+    "2472": {
+        "Prediction": "Contradiction"
+    },
+    "358": {
+        "Prediction": "Contradiction"
+    },
+    "324": {
+        "Prediction": "Contradiction"
+    },
+    "2107": {
+        "Prediction": "Entailment"
+    },
+    "2903": {
+        "Prediction": "Entailment"
+    },
+    "2765": {
+        "Prediction": "Entailment"
+    },
+    "4027": {
+        "Prediction": "Entailment"
+    },
+    "6322": {
+        "Prediction": "Contradiction"
+    },
+    "4145": {
+        "Prediction": "Entailment"
+    },
+    "4397": {
+        "Prediction": "Contradiction"
+    },
+    "6237": {
+        "Prediction": "Contradiction"
+    },
+    "4381": {
+        "Prediction": "Contradiction"
+    },
+    "3343": {
+        "Prediction": "Contradiction"
+    },
+    "5025": {
+        "Prediction": "Entailment"
+    },
+    "6839": {
+        "Prediction": "Contradiction"
+    },
+    "362": {
+        "Prediction": "Contradiction"
+    },
+    "4618": {
+        "Prediction": "Contradiction"
+    },
+    "821": {
+        "Prediction": "Entailment"
+    },
+    "1608": {
+        "Prediction": "Contradiction"
+    },
+    "5642": {
+        "Prediction": "Contradiction"
+    },
+    "6190": {
+        "Prediction": "Entailment"
+    },
+    "1766": {
+        "Prediction": "Contradiction"
+    },
+    "351": {
+        "Prediction": "Entailment"
+    },
+    "1764": {
+        "Prediction": "Contradiction"
+    },
+    "6682": {
+        "Prediction": "Entailment"
+    },
+    "4898": {
+        "Prediction": "Contradiction"
+    },
+    "3126": {
+        "Prediction": "Contradiction"
+    },
+    "5765": {
+        "Prediction": "Contradiction"
+    },
+    "1545": {
+        "Prediction": "Entailment"
+    },
+    "698": {
+        "Prediction": "Entailment"
+    },
+    "1681": {
+        "Prediction": "Contradiction"
+    },
+    "3631": {
+        "Prediction": "Entailment"
+    },
+    "1536": {
+        "Prediction": "Contradiction"
+    },
+    "590": {
+        "Prediction": "Contradiction"
+    },
+    "1626": {
+        "Prediction": "Contradiction"
+    },
+    "5984": {
+        "Prediction": "Contradiction"
+    },
+    "4559": {
+        "Prediction": "Contradiction"
+    },
+    "3170": {
+        "Prediction": "Entailment"
+    },
+    "1001": {
+        "Prediction": "Entailment"
+    },
+    "2875": {
+        "Prediction": "Entailment"
+    },
+    "4980": {
+        "Prediction": "Entailment"
+    },
+    "3081": {
+        "Prediction": "Contradiction"
+    },
+    "3669": {
+        "Prediction": "Contradiction"
+    },
+    "6819": {
+        "Prediction": "Entailment"
+    },
+    "4817": {
+        "Prediction": "Entailment"
+    },
+    "2717": {
+        "Prediction": "Entailment"
+    },
+    "3947": {
+        "Prediction": "Entailment"
+    },
+    "522": {
+        "Prediction": "Contradiction"
+    },
+    "5171": {
+        "Prediction": "Contradiction"
+    },
+    "3690": {
+        "Prediction": "Contradiction"
+    },
+    "3336": {
+        "Prediction": "Contradiction"
+    },
+    "2927": {
+        "Prediction": "Entailment"
+    },
+    "3599": {
+        "Prediction": "Entailment"
+    },
+    "3354": {
+        "Prediction": "Contradiction"
+    },
+    "5632": {
+        "Prediction": "Contradiction"
+    },
+    "1512": {
+        "Prediction": "Entailment"
+    },
+    "2056": {
+        "Prediction": "Entailment"
+    },
+    "2707": {
+        "Prediction": "Entailment"
+    },
+    "3821": {
+        "Prediction": "Entailment"
+    },
+    "2239": {
+        "Prediction": "Entailment"
+    },
+    "2652": {
+        "Prediction": "Entailment"
+    },
+    "5835": {
+        "Prediction": "Entailment"
+    },
+    "6975": {
+        "Prediction": "Entailment"
+    },
+    "5907": {
+        "Prediction": "Contradiction"
+    },
+    "2650": {
+        "Prediction": "Entailment"
+    },
+    "4261": {
+        "Prediction": "Contradiction"
+    },
+    "4241": {
+        "Prediction": "Contradiction"
+    },
+    "6592": {
+        "Prediction": "Contradiction"
+    },
+    "6865": {
+        "Prediction": "Entailment"
+    },
+    "6022": {
+        "Prediction": "Contradiction"
+    },
+    "5607": {
+        "Prediction": "Contradiction"
+    },
+    "1228": {
+        "Prediction": "Contradiction"
+    },
+    "2391": {
+        "Prediction": "Entailment"
+    },
+    "6922": {
+        "Prediction": "Entailment"
+    },
+    "5183": {
+        "Prediction": "Entailment"
+    },
+    "3003": {
+        "Prediction": "Contradiction"
+    },
+    "4595": {
+        "Prediction": "Contradiction"
+    },
+    "1965": {
+        "Prediction": "Contradiction"
+    },
+    "2465": {
+        "Prediction": "Contradiction"
+    },
+    "3276": {
+        "Prediction": "Entailment"
+    },
+    "5278": {
+        "Prediction": "Entailment"
+    },
+    "847": {
+        "Prediction": "Contradiction"
+    },
+    "6619": {
+        "Prediction": "Contradiction"
+    },
+    "710": {
+        "Prediction": "Entailment"
+    },
+    "5059": {
+        "Prediction": "Contradiction"
+    },
+    "3965": {
+        "Prediction": "Entailment"
+    },
+    "507": {
+        "Prediction": "Contradiction"
+    },
+    "6890": {
+        "Prediction": "Entailment"
+    },
+    "316": {
+        "Prediction": "Contradiction"
+    },
+    "1107": {
+        "Prediction": "Contradiction"
+    },
+    "1695": {
+        "Prediction": "Contradiction"
+    },
+    "6112": {
+        "Prediction": "Contradiction"
+    },
+    "3845": {
+        "Prediction": "Entailment"
+    },
+    "3349": {
+        "Prediction": "Contradiction"
+    },
+    "3264": {
+        "Prediction": "Contradiction"
+    },
+    "6631": {
+        "Prediction": "Contradiction"
+    },
+    "6424": {
+        "Prediction": "Entailment"
+    },
+    "6793": {
+        "Prediction": "Entailment"
+    },
+    "2156": {
+        "Prediction": "Contradiction"
+    },
+    "2467": {
+        "Prediction": "Entailment"
+    },
+    "6137": {
+        "Prediction": "Entailment"
+    },
+    "1179": {
+        "Prediction": "Entailment"
+    },
+    "2813": {
+        "Prediction": "Contradiction"
+    },
+    "5715": {
+        "Prediction": "Contradiction"
+    },
+    "6340": {
+        "Prediction": "Entailment"
+    },
+    "2243": {
+        "Prediction": "Entailment"
+    },
+    "6366": {
+        "Prediction": "Contradiction"
+    },
+    "4548": {
+        "Prediction": "Contradiction"
+    },
+    "4935": {
+        "Prediction": "Contradiction"
+    },
+    "6964": {
+        "Prediction": "Entailment"
+    },
+    "3762": {
+        "Prediction": "Entailment"
+    },
+    "3295": {
+        "Prediction": "Contradiction"
+    },
+    "2114": {
+        "Prediction": "Contradiction"
+    },
+    "2094": {
+        "Prediction": "Entailment"
+    },
+    "1013": {
+        "Prediction": "Contradiction"
+    },
+    "602": {
+        "Prediction": "Contradiction"
+    },
+    "2202": {
+        "Prediction": "Contradiction"
+    },
+    "1745": {
+        "Prediction": "Contradiction"
+    },
+    "5937": {
+        "Prediction": "Contradiction"
+    },
+    "4738": {
+        "Prediction": "Entailment"
+    },
+    "511": {
+        "Prediction": "Contradiction"
+    },
+    "319": {
+        "Prediction": "Contradiction"
+    },
+    "225": {
+        "Prediction": "Contradiction"
+    },
+    "6802": {
+        "Prediction": "Entailment"
+    },
+    "6765": {
+        "Prediction": "Entailment"
+    },
+    "6479": {
+        "Prediction": "Entailment"
+    },
+    "4420": {
+        "Prediction": "Entailment"
+    },
+    "2298": {
+        "Prediction": "Contradiction"
+    },
+    "2454": {
+        "Prediction": "Entailment"
+    },
+    "5312": {
+        "Prediction": "Entailment"
+    },
+    "4676": {
+        "Prediction": "Entailment"
+    },
+    "82": {
+        "Prediction": "Contradiction"
+    },
+    "4901": {
+        "Prediction": "Entailment"
+    },
+    "911": {
+        "Prediction": "Entailment"
+    },
+    "4580": {
+        "Prediction": "Contradiction"
+    },
+    "2665": {
+        "Prediction": "Contradiction"
+    },
+    "5406": {
+        "Prediction": "Entailment"
+    },
+    "5635": {
+        "Prediction": "Contradiction"
+    },
+    "1067": {
+        "Prediction": "Contradiction"
+    },
+    "730": {
+        "Prediction": "Contradiction"
+    },
+    "4450": {
+        "Prediction": "Entailment"
+    },
+    "3330": {
+        "Prediction": "Contradiction"
+    },
+    "4633": {
+        "Prediction": "Contradiction"
+    },
+    "5665": {
+        "Prediction": "Contradiction"
+    },
+    "6077": {
+        "Prediction": "Contradiction"
+    },
+    "4645": {
+        "Prediction": "Contradiction"
+    },
+    "986": {
+        "Prediction": "Entailment"
+    },
+    "542": {
+        "Prediction": "Contradiction"
+    },
+    "1912": {
+        "Prediction": "Contradiction"
+    },
+    "1391": {
+        "Prediction": "Contradiction"
+    },
+    "3323": {
+        "Prediction": "Entailment"
+    },
+    "6897": {
+        "Prediction": "Entailment"
+    },
+    "6847": {
+        "Prediction": "Entailment"
+    },
+    "4330": {
+        "Prediction": "Contradiction"
+    },
+    "982": {
+        "Prediction": "Entailment"
+    },
+    "1202": {
+        "Prediction": "Entailment"
+    },
+    "5794": {
+        "Prediction": "Contradiction"
+    },
+    "4135": {
+        "Prediction": "Entailment"
+    },
+    "4544": {
+        "Prediction": "Contradiction"
+    },
+    "1292": {
+        "Prediction": "Contradiction"
+    },
+    "1284": {
+        "Prediction": "Contradiction"
+    },
+    "4763": {
+        "Prediction": "Entailment"
+    },
+    "3268": {
+        "Prediction": "Entailment"
+    },
+    "1529": {
+        "Prediction": "Entailment"
+    },
+    "5689": {
+        "Prediction": "Contradiction"
+    },
+    "106": {
+        "Prediction": "Contradiction"
+    },
+    "4054": {
+        "Prediction": "Entailment"
+    },
+    "565": {
+        "Prediction": "Entailment"
+    },
+    "234": {
+        "Prediction": "Contradiction"
+    },
+    "3371": {
+        "Prediction": "Entailment"
+    },
+    "6415": {
+        "Prediction": "Entailment"
+    },
+    "5541": {
+        "Prediction": "Entailment"
+    },
+    "6686": {
+        "Prediction": "Entailment"
+    },
+    "1828": {
+        "Prediction": "Contradiction"
+    },
+    "564": {
+        "Prediction": "Entailment"
+    },
+    "5757": {
+        "Prediction": "Contradiction"
+    },
+    "3765": {
+        "Prediction": "Entailment"
+    },
+    "5727": {
+        "Prediction": "Contradiction"
+    },
+    "5232": {
+        "Prediction": "Contradiction"
+    },
+    "2166": {
+        "Prediction": "Entailment"
+    },
+    "6603": {
+        "Prediction": "Contradiction"
+    },
+    "1928": {
+        "Prediction": "Contradiction"
+    },
+    "5700": {
+        "Prediction": "Entailment"
+    },
+    "6146": {
+        "Prediction": "Entailment"
+    },
+    "6054": {
+        "Prediction": "Contradiction"
+    },
+    "2807": {
+        "Prediction": "Entailment"
+    },
+    "1105": {
+        "Prediction": "Contradiction"
+    },
+    "2679": {
+        "Prediction": "Entailment"
+    },
+    "2621": {
+        "Prediction": "Contradiction"
+    },
+    "197": {
+        "Prediction": "Entailment"
+    },
+    "6220": {
+        "Prediction": "Entailment"
+    },
+    "4111": {
+        "Prediction": "Entailment"
+    },
+    "2843": {
+        "Prediction": "Contradiction"
+    },
+    "6194": {
+        "Prediction": "Entailment"
+    },
+    "5596": {
+        "Prediction": "Contradiction"
+    },
+    "1726": {
+        "Prediction": "Contradiction"
+    },
+    "1701": {
+        "Prediction": "Entailment"
+    },
+    "4768": {
+        "Prediction": "Entailment"
+    },
+    "5108": {
+        "Prediction": "Contradiction"
+    },
+    "6871": {
+        "Prediction": "Entailment"
+    },
+    "1888": {
+        "Prediction": "Entailment"
+    },
+    "4133": {
+        "Prediction": "Contradiction"
+    },
+    "3573": {
+        "Prediction": "Entailment"
+    },
+    "0": {
+        "Prediction": "Contradiction"
+    },
+    "6752": {
+        "Prediction": "Entailment"
+    },
+    "5670": {
+        "Prediction": "Contradiction"
+    },
+    "4517": {
+        "Prediction": "Contradiction"
+    },
+    "5215": {
+        "Prediction": "Entailment"
+    },
+    "3175": {
+        "Prediction": "Entailment"
+    },
+    "4612": {
+        "Prediction": "Entailment"
+    },
+    "5540": {
+        "Prediction": "Entailment"
+    },
+    "2631": {
+        "Prediction": "Entailment"
+    },
+    "3042": {
+        "Prediction": "Entailment"
+    },
+    "6549": {
+        "Prediction": "Entailment"
+    },
+    "6104": {
+        "Prediction": "Contradiction"
+    },
+    "1038": {
+        "Prediction": "Entailment"
+    },
+    "448": {
+        "Prediction": "Contradiction"
+    },
+    "5311": {
+        "Prediction": "Entailment"
+    },
+    "4249": {
+        "Prediction": "Contradiction"
+    },
+    "4537": {
+        "Prediction": "Contradiction"
+    },
+    "3863": {
+        "Prediction": "Entailment"
+    },
+    "134": {
+        "Prediction": "Contradiction"
+    },
+    "3697": {
+        "Prediction": "Entailment"
+    },
+    "547": {
+        "Prediction": "Entailment"
+    },
+    "3891": {
+        "Prediction": "Entailment"
+    },
+    "5950": {
+        "Prediction": "Contradiction"
+    },
+    "3360": {
+        "Prediction": "Contradiction"
+    },
+    "4574": {
+        "Prediction": "Contradiction"
+    },
+    "4231": {
+        "Prediction": "Contradiction"
+    },
+    "385": {
+        "Prediction": "Contradiction"
+    },
+    "2992": {
+        "Prediction": "Contradiction"
+    },
+    "2657": {
+        "Prediction": "Entailment"
+    },
+    "3756": {
+        "Prediction": "Entailment"
+    },
+    "599": {
+        "Prediction": "Contradiction"
+    },
+    "1927": {
+        "Prediction": "Contradiction"
+    },
+    "4807": {
+        "Prediction": "Entailment"
+    },
+    "3000": {
+        "Prediction": "Contradiction"
+    },
+    "3799": {
+        "Prediction": "Entailment"
+    },
+    "3642": {
+        "Prediction": "Entailment"
+    },
+    "646": {
+        "Prediction": "Contradiction"
+    },
+    "2313": {
+        "Prediction": "Entailment"
+    },
+    "1858": {
+        "Prediction": "Entailment"
+    },
+    "296": {
+        "Prediction": "Entailment"
+    },
+    "5346": {
+        "Prediction": "Contradiction"
+    },
+    "6808": {
+        "Prediction": "Contradiction"
+    },
+    "2774": {
+        "Prediction": "Entailment"
+    },
+    "1375": {
+        "Prediction": "Contradiction"
+    },
+    "3885": {
+        "Prediction": "Entailment"
+    },
+    "5577": {
+        "Prediction": "Contradiction"
+    },
+    "2928": {
+        "Prediction": "Entailment"
+    },
+    "4427": {
+        "Prediction": "Contradiction"
+    },
+    "56": {
+        "Prediction": "Contradiction"
+    },
+    "2640": {
+        "Prediction": "Entailment"
+    },
+    "6804": {
+        "Prediction": "Contradiction"
+    },
+    "163": {
+        "Prediction": "Entailment"
+    },
+    "207": {
+        "Prediction": "Entailment"
+    },
+    "1081": {
+        "Prediction": "Contradiction"
+    },
+    "6676": {
+        "Prediction": "Contradiction"
+    },
+    "3062": {
+        "Prediction": "Entailment"
+    },
+    "3641": {
+        "Prediction": "Contradiction"
+    },
+    "2984": {
+        "Prediction": "Contradiction"
+    },
+    "504": {
+        "Prediction": "Contradiction"
+    },
+    "2256": {
+        "Prediction": "Contradiction"
+    },
+    "1889": {
+        "Prediction": "Contradiction"
+    },
+    "1205": {
+        "Prediction": "Contradiction"
+    },
+    "4248": {
+        "Prediction": "Entailment"
+    },
+    "1755": {
+        "Prediction": "Contradiction"
+    },
+    "860": {
+        "Prediction": "Contradiction"
+    },
+    "2353": {
+        "Prediction": "Entailment"
+    },
+    "2133": {
+        "Prediction": "Entailment"
+    },
+    "2759": {
+        "Prediction": "Entailment"
+    },
+    "2471": {
+        "Prediction": "Contradiction"
+    },
+    "2232": {
+        "Prediction": "Entailment"
+    },
+    "4871": {
+        "Prediction": "Entailment"
+    },
+    "2894": {
+        "Prediction": "Entailment"
+    },
+    "3246": {
+        "Prediction": "Entailment"
+    },
+    "3912": {
+        "Prediction": "Entailment"
+    },
+    "4522": {
+        "Prediction": "Contradiction"
+    },
+    "2876": {
+        "Prediction": "Contradiction"
+    },
+    "6021": {
+        "Prediction": "Contradiction"
+    },
+    "1077": {
+        "Prediction": "Contradiction"
+    },
+    "6714": {
+        "Prediction": "Entailment"
+    },
+    "2300": {
+        "Prediction": "Contradiction"
+    },
+    "2620": {
+        "Prediction": "Contradiction"
+    },
+    "5585": {
+        "Prediction": "Contradiction"
+    },
+    "6599": {
+        "Prediction": "Entailment"
+    },
+    "6951": {
+        "Prediction": "Entailment"
+    },
+    "5055": {
+        "Prediction": "Entailment"
+    },
+    "6588": {
+        "Prediction": "Contradiction"
+    },
+    "3383": {
+        "Prediction": "Entailment"
+    },
+    "4194": {
+        "Prediction": "Entailment"
+    },
+    "3375": {
+        "Prediction": "Contradiction"
+    },
+    "5016": {
+        "Prediction": "Entailment"
+    },
+    "2590": {
+        "Prediction": "Entailment"
+    },
+    "2985": {
+        "Prediction": "Contradiction"
+    },
+    "2505": {
+        "Prediction": "Contradiction"
+    },
+    "5959": {
+        "Prediction": "Contradiction"
+    },
+    "2407": {
+        "Prediction": "Contradiction"
+    },
+    "1347": {
+        "Prediction": "Contradiction"
+    },
+    "2812": {
+        "Prediction": "Contradiction"
+    },
+    "1480": {
+        "Prediction": "Entailment"
+    },
+    "215": {
+        "Prediction": "Entailment"
+    },
+    "2055": {
+        "Prediction": "Entailment"
+    },
+    "1089": {
+        "Prediction": "Contradiction"
+    },
+    "6167": {
+        "Prediction": "Entailment"
+    },
+    "4860": {
+        "Prediction": "Entailment"
+    },
+    "819": {
+        "Prediction": "Contradiction"
+    },
+    "4359": {
+        "Prediction": "Entailment"
+    },
+    "1317": {
+        "Prediction": "Entailment"
+    },
+    "395": {
+        "Prediction": "Entailment"
+    },
+    "1428": {
+        "Prediction": "Contradiction"
+    },
+    "4152": {
+        "Prediction": "Entailment"
+    },
+    "2915": {
+        "Prediction": "Contradiction"
+    },
+    "5500": {
+        "Prediction": "Entailment"
+    },
+    "1304": {
+        "Prediction": "Contradiction"
+    }
+}
