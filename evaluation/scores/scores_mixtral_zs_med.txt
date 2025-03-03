@@ -1,0 +1,3 @@
+Control_F1:  0.7084126025143327
+Control_Recall:  0.7237793278376665
+Control_Precision:  0.7216719392674702
