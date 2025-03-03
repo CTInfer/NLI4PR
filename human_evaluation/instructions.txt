@@ -1,0 +1,3 @@
+EN : Following the provided persona, describe the purpose of your last doctor appointment, the tests undergone, the obtained results or diagnostic as well as your age, gender and past medical history. All in no more than a dozen of sentences.
+
+FR : En suivant le persona proposé, décrivez l'objet de votre dernier rendez-vous chez le médecin/hôpital, les examens effectués, les résultats obtenus, le diagnostic du médecin, ainsi que votre âge, votre sexe et vos antécédents médicaux. Le tout en une douzaine de phrases maximum.
